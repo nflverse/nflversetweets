@@ -14,18 +14,18 @@ suppressPackageStartupMessages({
 # TODO maintain a list of banned/blocked users
 # TODO remove swearing and/or not-pg tweets? (censor it)
 
-api_key <- Sys.getenv("TWITTERAPIKEY")
-api_secret <- Sys.getenv("TWITTERAPISECRET")
-access_token <- Sys.getenv("TWITTERACCESSTOKEN")
-access_secret <- Sys.getenv("TWITTERACCESSTOKENSECRET")
-bot <- rtweet::rtweet_bot(
-  api_key = api_key,
-  api_secret = api_secret,
-  access_token = access_token,
-  access_secret = access_secret
-)
-
-rtweet::auth_as(bot)
+# api_key <- Sys.getenv("TWITTERAPIKEY")
+# api_secret <- Sys.getenv("TWITTERAPISECRET")
+# access_token <- Sys.getenv("TWITTERACCESSTOKEN")
+# access_secret <- Sys.getenv("TWITTERACCESSTOKENSECRET")
+# bot <- rtweet::rtweet_bot(
+#   api_key = api_key,
+#   api_secret = api_secret,
+#   access_token = access_token,
+#   access_secret = access_secret
+# )
+#
+# rtweet::auth_as(bot)
 
 last_id_saved <- readLines("last_id.txt")
 
@@ -38,7 +38,7 @@ retweet_nflverse <- function(last_id_saved){
     n = 1000,
     include_rts = FALSE,
     parse = FALSE,
-    # since_id = last_id_saved,
+    since_id = last_id_saved,
     retryonratelimit = TRUE
   )
 
