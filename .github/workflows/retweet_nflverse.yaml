@@ -52,7 +52,7 @@ jobs:
         run: |
           source("retweet_nflverse.R", chdir = TRUE)
         shell: Rscript {0}
-        
+
       - name: Commit and Push
         run: |
           git config --local user.name "GitHub Actions"
