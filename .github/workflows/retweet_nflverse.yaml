@@ -4,8 +4,8 @@ on:
 #      - main
 #      - master
   workflow_dispatch:
-  #schedule:
-    #- cron: '*/5 * * * *'
+  schedule:
+    - cron: '*/5 * * * *'
 
 name: retweet_nflverse
 
@@ -57,6 +57,6 @@ jobs:
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
-          git add data
+          git add .
           git commit -m "Retweet #nflverse on `date`" || echo "No changes to commit"
           git push || echo "No changes to commit"
