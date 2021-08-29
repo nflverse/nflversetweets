@@ -33,6 +33,8 @@ retweet_nflverse <- function(last_id_saved){
 
   message(paste("Starting retweet job:",Sys.time()))
 
+  blocked_ids <- readLines("blocked_ids.txt")
+
   tweets_raw <- rtweet::search_tweets(
     q = "#nflverse",
     n = 1000,
@@ -50,7 +52,10 @@ retweet_nflverse <- function(last_id_saved){
   tweets_filtered <- tweets_filtered |>
     tidyr::unpack(user,names_sep = "_") |>
     tidyr::unpack(entities) |>
-    dplyr::filter(purrr::map_lgl(hashtags, ~nrow(.x) <= 3)) |>
+    dplyr::filter(
+      purrr::map_lgl(hashtags, ~nrow(.x) <= 3),
+      !user_id_str %in% blocked_ids
+      ) |>
     dplyr::select(
       created_at,
       user_id = user_id_str,
