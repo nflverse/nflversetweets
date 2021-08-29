@@ -73,7 +73,9 @@ retweet_nflverse <- function(last_id_saved){
               col.names = !file.exists(paste0("data/",Sys.Date(),".csv")),
               sep = ",")
 
-  r <- purrr::map(tweets_filtered$status_id, ~purrr::possibly(rtweet::post_tweet(retweet_id = .x),otherwise = NA))
+  r <- purrr::map(tweets_filtered$status_id,
+                  purrr::possibly(~rtweet::post_tweet(retweet_id = .x),
+                                  otherwise = NA))
 
   message(paste(nrow(tweets_filtered), "#nflverse messages retweeted! --", Sys.time()))
 
