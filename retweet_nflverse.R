@@ -41,7 +41,7 @@ retweet_nflverse <- function(last_id_saved){
     dplyr::filter(!is.na(id)) |>
     dplyr::filter(purrr::map_lgl(hashtags, ~nrow(.x) <= 3))
 
-  writeLines(max(tweets_raw$id), "last_id.txt")
+  writeLines(max(tweets_raw$id_str), "last_id.txt")
 
   if(!nrow(tweets_filtered)>0) return("No tweets to retweet")
 
