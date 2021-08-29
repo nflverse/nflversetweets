@@ -10,7 +10,8 @@ suppressPackageStartupMessages({
 #' apply cleaning:
 #' a) do not retweet where more than 3 hashtags are used
 #' b) do not retweet more than one message from the same author (author vatiable is missing?)
-# TODO figure out how to auth as nflversetweets bot
+
+# TODO maintain a list of banned/blocked users
 # TODO remove swearing and/or not-pg tweets? (censor it)
 
 api_key <- Sys.getenv("TWITTERAPIKEY")
