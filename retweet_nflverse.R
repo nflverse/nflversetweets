@@ -33,34 +33,34 @@ retweet_nflverse <- function(last_id_saved){
 
   message(paste("Starting retweet job:",Sys.time()))
 
-  tweets_raw <- search_tweets(
+  tweets_raw <- rtweet::search_tweets(
     q = "#nflverse",
     n = 1000,
     include_rts = FALSE,
     parse = FALSE,
-    since_id = last_id_saved,
+    # since_id = last_id_saved,
     retryonratelimit = TRUE
   )
 
-  tweets_filtered <- tweets_raw %>%
+  tweets_filtered <- tweets_raw |>
     purrr::pluck(1,"statuses")
 
   if(is.null(tweets_filtered)) return("No tweets to retweet")
 
-  tweets_filtered <- tweets_filtered %>%
-    unpack(user,names_sep = "_") %>%
-    unpack(entities) %>%
-    dplyr::filter(purrr::map_lgl(hashtags, ~nrow(.x) <= 3)) %>%
+  tweets_filtered <- tweets_filtered |>
+    tidyr::unpack(user,names_sep = "_") |>
+    tidyr::unpack(entities) |>
+    dplyr::filter(purrr::map_lgl(hashtags, ~nrow(.x) <= 3)) |>
     dplyr::select(
       created_at,
       user_id = user_id_str,
       screen_name = user_screen_name,
       status_id = id_str,
       full_text
-    ) %>%
-    group_by(user_id) %>%
-    slice_min(order_by = status_id, n = 3) %>%
-    ungroup()
+    ) |>
+    dplyr::group_by(user_id) |>
+    dplyr::slice_min(order_by = status_id, n = 3) |>
+    dplyr::ungroup()
 
   writeLines(max(tweets_filtered$status_id), "last_id.txt")
 
