@@ -16,4 +16,4 @@ RoxygenNote: 7.1.1
 Imports: 
     dplyr (>= 1.0.7),
     purrr (>= 0.3.4),
-    rtweet (>= 0.7.0)
+    tidyr (>= 1.1.3)
