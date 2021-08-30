@@ -12,3 +12,6 @@ Baker, Jameis and Allen seem to take calculated risks. Burrow on the other hand.
 
 Data: #nflverse https://t.co/nG48tTXDWD"
 "Mon Aug 30 18:06:25 +0000 2021","1205557554442575878","mrcaseb","1432404354745700354","That's correct. WOPR,RACR and some other variables have been added to the nflfastR player stats function. The weekly version can be loaded using nflreadr. Season summaries require the download of the pbp and running `calculate_player_stats` with the option `weekly=FALSE`#nflverse https://t.co/jrQt0mBz0m https://t.co/zWhG600qOu"
+"Mon Aug 30 19:12:22 +0000 2021","1205557554442575878","mrcaseb","1432420950763528195","Currently revisiting SIS passing accuracy data which includes On Target Percentage Above Average (OTAA) split by area of the field. And whelp Carson Wentz in 2020 was....different. 
+#nflverse https://t.co/2ag2nYZ9u1"
+"Mon Aug 30 19:16:00 +0000 2021","1205557554442575878","mrcaseb","1432421863972556809","How does an insanely good OTAA plot look like? #nflverse https://t.co/U5lfH1NFpY"
