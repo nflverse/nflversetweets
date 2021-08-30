@@ -11,3 +11,4 @@ Baker, Jameis and Allen seem to take calculated risks. Burrow on the other hand.
 "Mon Aug 30 15:58:00 +0000 2021","40782542","reinhurdler","1432372035947311107","We're 9 days from the start of the NFL regular season and trade activity is starting to pick up. Here is how many trades there have been in the 14 days leading up to the regular season in past years.
 
 Data: #nflverse https://t.co/nG48tTXDWD"
+"Mon Aug 30 18:06:25 +0000 2021","1205557554442575878","mrcaseb","1432404354745700354","That's correct. WOPR,RACR and some other variables have been added to the nflfastR player stats function. The weekly version can be loaded using nflreadr. Season summaries require the download of the pbp and running `calculate_player_stats` with the option `weekly=FALSE`#nflverse https://t.co/jrQt0mBz0m https://t.co/zWhG600qOu"
