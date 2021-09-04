@@ -2,3 +2,4 @@
 "Sat Sep 04 00:54:41 +0000 2021","1365340156069306371","deepvaluebettor","1433956650000568323","as NFL week 1 sneaks up on us, we took a look at how spreads have shifted over the course of the summer since initial release earlier in the year. most matchups pretty steady, in the 1/2 point range (games that had zero movement were omitted)
 
 #nflverse #sportfoliokings https://t.co/iWx3oGGaR5"
+"Sat Sep 04 19:03:23 +0000 2021","1241814552","thomas_mock","1434230631744016393","@AllanLyngberg @rstatstweet Yup! You can get the logo urls from #nflverse 's {nflreadr} package, and then use gt::web_image() to embed it into the table."
