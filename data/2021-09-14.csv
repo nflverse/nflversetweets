@@ -1475,3 +1475,134 @@ News here 👇 https://t.co/4NhlcngMFv"
 "Sat Sep 11 17:57:28 +0000 2021","839942645883551744","_TanHo","1436750754824531976","Tonight on stream: working on automating some #nflverse data pipelines in #rstats!
 
 Live at about ~ 8pm EDT: https://t.co/byE0SlXj3e"
+"Sun Sep 12 23:38:37 +0000 2021","1081617957439049729","ThePuntRunts","1437198996854935552","one of these days I'll remember to tag #nflverse"
+"Mon Sep 13 00:11:44 +0000 2021","1081617957439049729","ThePuntRunts","1437207330832199680","Here's the same results, just omitting blocked punts (which we definitely should have been doing, oops!)
+
+Never fear, #BillsMafia  (or maybe do, you still had a punt blocked)
+
+#nflverse https://t.co/TwOgMYq105 https://t.co/55f7wExlhC"
+"Mon Sep 13 19:14:22 +0000 2021","1158185324960473088","PatriotsStatsR","1437494885142179845","Looking into Josh McDaniels play calls this week:
+
+• -12% pass rate over expected on 1st down relative to league play calls in same situations. -25% on 2nd down.
+• Relative to 2020 McDaniels play calls in similar situations, he was more aggressive (+12% overall).
+#nflverse https://t.co/9vS0hWN0Y6"
+"Mon Sep 13 13:00:22 +0000 2021","1194759040657551361","tejfbanalytics","1437400764037705738","matthew stafford played 168 games in detroit and only recorded one (1) game with a higher EPA/dropback than what he did last night in his debut with the los angeles rams #nflverse https://t.co/feR8W4CPAF"
+"Tue Sep 07 16:55:07 +0000 2021","1205557554442575878","mrcaseb","1435285515708862474","A long offseason is coming to an end and I wondered what we did in the development of the #nflverse in the past moths. 
+It was **a lot**! A thread on everything I can remember 👇
+1/9"
+"Tue Sep 07 16:55:09 +0000 2021","1205557554442575878","mrcaseb","1435285523514511362","We‘ve introduced the #nflverse where we combined all of our nfl related work under one roof. 
+
+https://t.co/YoXfWUmX9o
+
+5/9"
+"Sat Sep 11 17:51:23 +0000 2021","1205557554442575878","mrcaseb","1436749226944380930","I am currently working on some cool dataviz helpers for ggplot2 in a new #nflverse package that will be announced soon.
+Just put a variable with NFL team abbreviations in your plotting data and the new scales and themes activate team colors and logos as axis labels. https://t.co/xD9nIT67ui"
+"Sat Sep 11 20:04:21 +0000 2021","1209594095422902272","Mike_Lounsberry","1436782686807416838","The Shinyapp I'm building is going to have Long Snapper stats in addition to punting and coverage stats. Clearly this is what the people want. #nflverse https://t.co/6dYVsbCcdG"
+"Tue Sep 14 01:16:53 +0000 2021","1209594095422902272","Mike_Lounsberry","1437586115289141249","I'm about halfway through charting the punts for Week 1 (NFL Game Pass is really slowing me down) but I figured I'd start the Punt Shiny app up in the mean time. This will be updated and expanded with more stats using what I've collected soon! #nflverse
+
+https://t.co/X6s6zvegV3 https://t.co/JKA7xVfDYT"
+"Tue Sep 14 14:58:11 +0000 2021","1241814552","thomas_mock","1437792802495139852","A more realistic use-case of the gtExtras::gt_plt_bullet() inside a {gt} table below. The core table is ~8 lines of code.
+
+Several high-profile QBs struggled in Wk 1, 2021 (dropped &gt; 32 %-points from 2020).
+
+Data: @ESPNStatsInfo &amp; #nflverse 
+
+#rstats Code: https://t.co/1UQikNjFnx https://t.co/OlKMjwwdKu"
+"Tue Sep 14 15:04:21 +0000 2021","1265089805848846341","mnpykings","1437794355616653314","Time to overreact to small sample sizes! Will be posting the defensive efficiency charts each week again this season. Although these values may not fully stabilize until ~wk7, they are still fun to look at. Bonus internet points to anyone who can find the Chargers logo
+#nflverse https://t.co/UXk1rJMCDb"
+"Mon Sep 13 15:18:17 +0000 2021","1315091546094657538","beaR_alytics","1437435471634829319","Going to be tweeting this after every game for as long as it takes. I am well aware that this reeks of sample size issues, and I do not care. Absolutely no reason to keep Fields on the sideline. #BearDown #nflverse https://t.co/J0o6fO7Vtb"
+"Sun Sep 12 03:21:37 +0000 2021","1370449271540043776","_pranavrajaram","1436892728516911106","Wanted to play around with @thomas_mock's great new gtExtra package, so here are NFL punters by EPA per Punt since 2010.
+Also attached is a graph that further proves my statement that Jake Bailey is the punter version of Patrick Mahomes in #nflverse viz. https://t.co/ESEXqzCRLQ"
+"Thu Sep 09 06:54:52 +0000 2021","1399861062875324420","John_B_Edwards","1435859232750854152","hey folks, {nflreadr} now has updated nfl injury report data for the 2021 season with nflreadr::load_injuries. this will be updated daily throughout the season. feel free to play around with it! #nflverse https://t.co/S41Ru60Rdg"
+"Mon Sep 13 16:43:03 +0000 2021","1399861062875324420","John_B_Edwards","1437456802828804103","hey everyone, {nflreadr} now has updated depth charts for both week 1 and week 2 for most nfl teams for the 2021 season! you can access it with nflreadr::load_depth_charts(2021) #nflverse https://t.co/KZGq3v289d"
+"Tue Sep 14 15:47:04 +0000 2021","1424719123","danmorse_","1437805104845889540","I stole a lot of the ideas from the #nflverse because it's the premier resource for messing with football stats and while there are countless great hockey sites out there, it's harder to find places with just the raw play-by-play.
+
+Not anymore! https://t.co/iVSlLINFvS"
+"Sat Sep 11 19:31:04 +0000 2021","2271883289","Tucker_TnL","1436774310060847105","After two more touchdowns on Thursday, Brady &amp; Gronk are comfortably in first place for total EPA accrued by a passer/receiver combo.
+
+#nflverse
+
+https://t.co/FR23Q5k5Tk https://t.co/bFmnv0nTt2"
+"Mon Sep 13 02:52:33 +0000 2021","2271883289","Tucker_TnL","1437247803051233281","And the #nflverse code used to construct the dataframe of QB debuts (and accompanying EPA/CPOE): https://t.co/FlHaPlUpUo"
+"Wed Sep 08 01:46:09 +0000 2021","242557699","Cardanski0","1435419153075212289","Almost time for FOOTBALL! So let's do a quick Thursday night game preview, using advanced stats from the #nflverse
+
+#DALvsTB
+
+Plenty to talk about in this Viz, so lets get into it...
+
+1/ https://t.co/mfFicXVjf2"
+"Tue Sep 14 00:44:45 +0000 2021","242557699","Cardanski0","1437578026628251649","There was actual football over the weekend! 
+
+Here's the offensive and defensive efficiency of each team, pending #MNF
+
+No surprise at the top, but take a look at that top 5 on offense 👀
+
+((As always, data 🌠free🌠 from #nflverse)) https://t.co/OczvrsYpXj"
+"Wed Sep 08 05:00:18 +0000 2021","3154004274","BRotoFFCasanova","1435468012618928131","An updated version of my record projections utilizing Vegas spread lines for all games
+
+The lines get converted to Massey ratings and then into Elo ratings to run simulations using @nflseedR (by Lee Sharpe and Sebastian Carl)
+
+This is the aggregate result of 10000 sims
+
+#nflverse https://t.co/fD9Ac3MLys"
+"Mon Sep 13 15:49:40 +0000 2021","3154004274","BRotoFFCasanova","1437443371283501058","Turnover risk vs turnover cost for Week 1 
+
+Jared Goff was very safe but got punished the hardest
+
+Herbert and Teddy lead in risk by a large margin
+
+#nflverse https://t.co/a5xX3q73Uy"
+"Tue Sep 14 01:35:10 +0000 2021","358575395","SamHoppen","1437590715505291272","Since 2000, there have been six games in which only four players were targeted in a game (the fewest amount in any game since then), per @nflfastR. #nflverse https://t.co/BJsk6yXPgx"
+"Tue Sep 14 01:43:53 +0000 2021","358575395","SamHoppen","1437592911625998336","Since 2000, the most targets that a player has recorded in a half is Tony Gonzalez with 17 in the second half of Week 17 of the 2004 season. #nflverse https://t.co/Tt8RVX5ncK"
+"Sat Sep 11 19:33:16 +0000 2021","371438801","JesseOPiburn","1436774866959671306","@mrcaseb That's awesome! Such great foundational work that makes possible so many other great visualizations. Thank you for all the effort the #nflverse team puts in"
+"Thu Sep 09 16:01:00 +0000 2021","40782542","reinhurdler","1435996669997305857","Quick preview of the #Browns 2021 schedule with three days until their season kicks off.
+
+This shows where each opposing unit ranked last season in EPA/play.
+
+Data: #nflverse https://t.co/fdZCyWVOwc"
+"Fri Sep 10 15:58:00 +0000 2021","40782542","reinhurdler","1436358302640885781","Dallas &amp; Tampa Bay combined to drop back to pass on 93 of 119 of first and second down plays (78.2%), the highest rate of any game since at least 2005.
+
+The nerds have won.
+
+Data: #nflverse https://t.co/QJv47jtVmb"
+"Sun Sep 12 15:10:32 +0000 2021","411946161","LazyMillennial0","1437071135359832065","#nflverse Finished my win probability model in time for the 2021 NFL season! This is originally a model I built in 2015 (inspired by 538) to predict CFL games. Here are the win probabilities for each game today starting with #DirtyBirds vs. #FlyEaglesFly (-2.5 ATL) https://t.co/93BVlra8z6"
+"Fri Sep 10 18:36:02 +0000 2021","445781077","henrygise","1436398075917082626","Bucs and Cowboys passing charts from last night ⬇️
+
+Brady was successful going at the right side, and Kellen Moore called a shit ton of short outside passes on early downs #nflverse https://t.co/rreaRhVe8g"
+"Wed Sep 08 18:09:05 +0000 2021","451578920","andreacasiragh1","1435666514561093632","Some differences from play-action.
+
+Goff, Mayfield and Cousins starts under center.
+Jackson, Tua, Murray, Hurts starts in shotgun
+
+Trubisky so close to Brady 🤯😱
+
+#nflverse https://t.co/8onl64so5Z"
+"Sat Sep 11 17:12:55 +0000 2021","451578920","andreacasiragh1","1436739544171307012","Pass, pass, pass and pass again 👌
+
+#nflverse https://t.co/N82hxloyS8"
+"Sat Sep 11 23:08:54 +0000 2021","451578920","andreacasiragh1","1436829131694612480","More Blitz for Bucs than for Cowboys. 
+Nothing surprising, we are like previous year.
+
+#nflverse https://t.co/p8XR4VNn5F"
+"Thu Sep 09 22:41:03 +0000 2021","534111288","BenHorsley89","1436097347772051507","We made it! Week 1 is finally here and so too are my first round of #NFL game predictions for 2021. All displayed in #RStats {reactable}. Model has Tampa as a conservative 9.6 point winner tonight. #nflverse https://t.co/Itrt8gDloF"
+"Tue Sep 14 10:19:42 +0000 2021","534111288","BenHorsley89","1437722721190772736","Best performing #NFL teams through Week 1 as represented by expected points added (EPA) for/against. For those unaware of EPA and how its used to evaluate aspects of team and player performance, check out the below post by the @The33rdTeamFB. #nflverse
+
+https://t.co/D2Xp2GgNj3 https://t.co/wMTNQTuEiD"
+"Tue Sep 14 02:54:16 +0000 2021","726939781507125248","BradCongelio","1437610621466464261","Using #NextGenStats via the #nflverse, here's a look at running backs and their average time to the line of scrimmage in week 1.
+
+Antonio Gibson is getting to the LOS in under 2.5 seconds.
+
+@JPFinlayNBCS @HogsHaven @Amie_Just @TroyRenck #NFL https://t.co/uVJTbn74Ro"
+"Mon Sep 13 21:19:58 +0000 2021","807051840881733633","zweinberg18","1437526491487617028","Finally, I compared the Ravens reliance on two receivers to the rest of the league. 
+
+1) KC and Buffalo in the top 6 teams shows relying on top 2 doesn't inherently prevent a dynamic pass O
+2) The Ravens will still want a more diverse passing attack in 2021
+#nflverse https://t.co/TumI3lXLeT"
+"Tue Sep 07 17:03:49 +0000 2021","839942645883551744","_TanHo","1435287702098915330","LFG #nflverse https://t.co/0b9MftUEtb"
+"Sat Sep 11 14:08:04 +0000 2021","839942645883551744","_TanHo","1436693024310968320","Released ffsimulator v1.1.0 on CRAN today! A few new features, including an upcoming week simulation, as well as backend refactoring (e.g. data.table for speed💨💨💨!)
+
+#nflverse #rstats
+News here 👇 https://t.co/4NhlcngMFv"
+"Sat Sep 11 17:57:28 +0000 2021","839942645883551744","_TanHo","1436750754824531976","Tonight on stream: working on automating some #nflverse data pipelines in #rstats!
+
+Live at about ~ 8pm EDT: https://t.co/byE0SlXj3e"
