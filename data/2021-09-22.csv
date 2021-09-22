@@ -10,3 +10,11 @@ the 👏Broncos👏 are 👏a 👏top👏 2 👏offense 👏
 
 #tableau #nflverse https://t.co/axvtYjJuRd"
 "Wed Sep 22 10:38:39 +0000 2021","534111288","BenHorsley89","1440626590115790856","A bit spoken about KC's run defense through 2 weeks, despite them facing CLE and BAL. Tried replicating a similar (and cool) plot by @benbbaldwin using {ggforce} to show team success against the run b/w '20 and '21. Small sample, but a noticeable drop-off for KC. #nflverse https://t.co/OXWwF4mVZL"
+"Wed Sep 22 16:02:00 +0000 2021","40782542","reinhurdler","1440707964243902464","Which metrics are most correlated with future in-season QB efficiency, and at what point in the season can we trust them?
+
+Notes:
+• EPA/dropback plateaus at W4
+• PFF grade has a higher plateau in W6
+• EPA+CPOE Index overtakes EPA alone in W7
+
+Data: #nflverse / PFF https://t.co/78einZGQUP"
