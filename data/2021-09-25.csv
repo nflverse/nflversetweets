@@ -2,3 +2,6 @@
 "Sat Sep 25 13:26:00 +0000 2021","40782542","reinhurdler","1441755868727365633","With many 2018 draft picks entering the final year of their rookie deal, I took a look at each team's top six picks from that draft. Here is the % of offensive or defensive snaps that these players have played for the team that drafted them.
 
 Data: #nflverse https://t.co/sDLLapDaHt"
+"Sat Sep 25 20:35:40 +0000 2021","4222495623","KentWeyrauch","1441863999952465920","This shows offensive EPA per play minus defensive EPA per play for both the home and away teams and plots them as game pairs. Combinations of good offenses with suspect defenses will end up in the upper right.
+
+Data: @nflfastR #nflverse https://t.co/WTGHsjT0fH"
