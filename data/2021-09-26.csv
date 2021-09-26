@@ -213,3 +213,109 @@ Lowest aDOT since 2006 are:
 
 Live at about 8pm EDT!"
 "Thu Sep 23 14:52:01 +0000 2021","839942645883551744","_TanHo","1441052741787275271","Was asked about an example of how I'm using my new fivestars #rstats pkg, so here's a quick and dirty ""air yards buy low model"" and the code used to generate it (cc #nflverse etc) https://t.co/HoQPxeJ6Vn https://t.co/VDzUsrbIJz"
+"Sat Sep 18 16:58:15 +0000 2021","1209594095422902272","Mike_Lounsberry","1439272567819362304","#nflverse https://t.co/kqI9mmCG9O"
+"Tue Sep 21 12:46:50 +0000 2021","1210634054682468352","Cooper_DFF","1440296462282199056","Pace and efficiency charts updated with week 2 stats #nflverse https://t.co/G7cfCWAius"
+"Fri Sep 17 17:29:49 +0000 2021","1241814552","thomas_mock","1438918124733095937","@tejfbanalytics @LeeSharpeNFL Ooh nice!
+
+Note that {nflreadr} now is the ""better"" method of getting Lee's data.
+
+#nflverse
+
+https://t.co/eFFO6qKrAc"
+"Fri Sep 24 18:27:36 +0000 2021","1253417259696971778","triceruhtops","1441469382031519744","updated version of David Anderson's game manager vs. gunslinger performance from opensourcefootball.  I wanted to update it for this season after watching Jimmy G for two weeks. seems about right #nflverse https://t.co/v6LUZEsa0b"
+"Fri Sep 17 12:45:00 +0000 2021","1294368617635762180","SportfolioKings","1438846447571582976","we summarized the public 'overreaction' narratives for every NFL team following week 1 + how these perceptions have helped move week 2 spreads, using last week's 'lookahead line' and the spring preseason line as proxies 🤓
+
+#nflverse https://t.co/tY5QPeA9xZ"
+"Thu Sep 23 13:45:00 +0000 2021","1294368617635762180","SportfolioKings","1441035874561576964","our take on consensus mkt narratives for every NFL team following week 2 👀
+
+we can see how shifting mkt perceptions have shaped week 3 spreads, using last week's 'lookahead lines' and spring preseason lines as proxies. ++ESPN FPI changes as 'dumb money' sentiment 😬
+
+#nflverse https://t.co/9RvkEmjh2y"
+"Sun Sep 19 13:15:00 +0000 2021","1365340156069306371","deepvaluebettor","1439578773507166214","NFL week 2 summary of where bettors are putting cash to work 🏈🤑🎯
+
+#nflverse #rstats #gamblingtwitter https://t.co/6nE4tmghTd"
+"Sun Sep 19 01:38:20 +0000 2021","1369000075666591745","cdvalenti","1439403450874449920","Do NFL teams attempt longer passes when losing? Yes, kind of. 
+
+See every team's break down here: https://t.co/KZzUGSkCcO
+
+#nflverse #python #dataviz https://t.co/28GHibJiwY"
+"Tue Sep 21 11:17:15 +0000 2021","1369000075666591745","cdvalenti","1440273915490697220","NFL QB DICK Size: The Gunslinger Index. 
+
+Does your QB Demonstrate Innate Confidence and Killer-instinct? https://t.co/gra7Vg8TJH
+
+Data: #nflverse https://t.co/96Hn5EB5AC"
+"Wed Sep 22 22:47:44 +0000 2021","1369000075666591745","cdvalenti","1440810069491261444","@RealSkipBayless said the @dallascowboys are 25-0 when they run more than pass. So I decided to beat the dead horse that is RUN != WIN. https://t.co/hsoZiRlNi2
+
+Data: #nflverse https://t.co/lQ2lXFwLhs"
+"Fri Sep 17 21:56:38 +0000 2021","1370449271540043776","_pranavrajaram","1438985270171426816","Carson Wentz trick y'all man...he just running around doing nothing.
+
+The man had the 4th *highest* average time to throw among all QBs in Week 1 but still had the 4th *lowest* Average Target Depth.
+#nflverse https://t.co/hL8s2rozod"
+"Tue Sep 21 00:33:19 +0000 2021","1415047596293378050","CDFBAnalysis","1440111867515621382","Why there's basically no need to worry for #Jets fans: Justin Herbert was almost worse all-around against Bill Belichick as a rookie than Wilson was this week. Herbert still ended up winning the rookie of the year. #nflverse https://t.co/5Fy3smetkY"
+"Wed Sep 22 01:24:12 +0000 2021","242557699","Cardanski0","1440487057713885186","Team Efficiency charts, Week 2
+
+the 👏Broncos👏 are 👏a 👏top👏 2 👏offense 👏
+
+#tableau #nflverse https://t.co/axvtYjJuRd"
+"Wed Sep 22 00:22:06 +0000 2021","29360193","davisj2007","1440471429032472590","Week 2 is on the books and the model has made some adjustments - still a lot of variance in the estimates of team strength, but I expect next week's games will provide a ton of clarity #nflverse https://t.co/2zq0HR3AuR https://t.co/XKyexOongG"
+"Wed Sep 22 00:22:08 +0000 2021","29360193","davisj2007","1440471438150963202","And here are the week 3 projections - the model made some great calls in week 2, but overall missed the mark.  The historical data suggests more predictive accuracy is coming, but we'll see how it plays out using @FiveThirtyEight and @LeeSharpeNFL prediction games! #nflverse https://t.co/Rud1PeQKsp"
+"Sun Sep 26 02:15:26 +0000 2021","3154004274","BRotoFFCasanova","1441949503863545857","The problem with air yards is that a deep target that had no business being caught will inflate a player's total artificially and make the number useless
+
+Here's a version that adjusts for completion probability to counteract this. Not perfect but maybe better
+
+#nflverse https://t.co/as5h1uW4Un"
+"Sun Sep 19 20:31:18 +0000 2021","358575395","SamHoppen","1439688570902560774","Per @nflfastR the Raiders have a pass rate over expectation of 9.6%, the highest rate among teams that have played two games already. #nflverse"
+"Wed Sep 22 17:00:34 +0000 2021","37262155","G_ROG","1440722704869457929","QB Adjusted EPA per Play through week 2. The idea is that quarterbacks will regress towards their career averages, so compared to the first two weeks expect more from:
+-Tannehill
+-Ryan
+-Burrow 
+
+And expect less from:
+-Mahomes
+-Garappolo
+-Stafford
+-Bridgewater
+#nflverse https://t.co/H1fHYCr7nR"
+"Fri Sep 17 16:04:06 +0000 2021","40782542","reinhurdler","1438896555940065289","Daniel Jones had his sixth career turnover-free game last night. He has the lowest rate of turnover-free games among QBs who have had at least 10 dropbacks in 25 games since 1999.
+
+Data: #nflverse https://t.co/LL6NllnvHt"
+"Tue Sep 21 16:01:00 +0000 2021","40782542","reinhurdler","1440345324346912768","Expected fantasy points distributions for WRs/TEs using targets from Weeks 1 &amp; 2.
+
+Rest assured: AJ Brown SZN is coming
+
+Data: #nflverse https://t.co/Ka6n5mAj3t"
+"Tue Sep 21 23:13:00 +0000 2021","40782542","reinhurdler","1440454040287170562","Trevor Lawrence had the sixth worst Week 1 &amp; 2 nflfastR CPOE since 2006. He's joined in the bottom 20 by a rookie Matt Stafford, two other first overall picks (JaMarcus &amp; Carson Palmer), XFL legend Josh Freeman, and Blaine Gabbert (3x)
+
+Data: #nflverse https://t.co/6lPAXmLtwH"
+"Sun Sep 19 17:23:35 +0000 2021","411946161","LazyMillennial0","1439641330490257414","#nflverse Win probabilities are back for Week 2!
+
+Thread below for all NFL win probabilities generated by my Elo rating model: https://t.co/xdnaQONToD"
+"Sat Sep 25 20:35:40 +0000 2021","4222495623","KentWeyrauch","1441863999952465920","This shows offensive EPA per play minus defensive EPA per play for both the home and away teams and plots them as game pairs. Combinations of good offenses with suspect defenses will end up in the upper right.
+
+Data: @nflfastR #nflverse https://t.co/WTGHsjT0fH"
+"Wed Sep 22 00:15:23 +0000 2021","445781077","henrygise","1440469742318325774","QB Accuracy and Average Depth of Target #nflverse 
+
+Davis Mills has 9 fewer air yards than Andy Dalton on 31 fewer attempts 😬 https://t.co/8YtzQ4OuDv"
+"Mon Sep 20 18:19:50 +0000 2021","451578920","andreacasiragh1","1440017877264969738","Patriots are really conservative in this 2 weeks.
+
+Lowest aDOT since 2006 are:
+- 2021 with Mac Jones (for now), 2020
+- 2020 with Cam Newton
+- 2018 Brady Injury in week 1
+
+@PatriotReign3
+ 
+@ezlazar
+ 
+@mdabateNFL
+
+#nflverse https://t.co/UhjRo6GpYI"
+"Wed Sep 22 16:38:41 +0000 2021","451578920","andreacasiragh1","1440717196745797632","For this season, the sample is small, but mac jones had a great start. Patriots have run a conservative playbook with aDot below 6 yds. Nobody qb rookie has it since '13 with at least 50 att. Hope for Lawrence and Wilson that they will come back over the average for epa
+#nflverse https://t.co/r7BFFnwaQp"
+"Wed Sep 22 10:38:39 +0000 2021","534111288","BenHorsley89","1440626590115790856","A bit spoken about KC's run defense through 2 weeks, despite them facing CLE and BAL. Tried replicating a similar (and cool) plot by @benbbaldwin using {ggforce} to show team success against the run b/w '20 and '21. Small sample, but a noticeable drop-off for KC. #nflverse https://t.co/OXWwF4mVZL"
+"Sat Sep 18 21:01:15 +0000 2021","839942645883551744","_TanHo","1439333722411646982","Tonight on-stream: futzing with ffsimulator to try and make a ""wins-added"" metric specific to your fantasy league :) 
+
+#nflverse
+
+Live at about 8pm EDT!"
+"Thu Sep 23 14:52:01 +0000 2021","839942645883551744","_TanHo","1441052741787275271","Was asked about an example of how I'm using my new fivestars #rstats pkg, so here's a quick and dirty ""air yards buy low model"" and the code used to generate it (cc #nflverse etc) https://t.co/HoQPxeJ6Vn https://t.co/VDzUsrbIJz"
