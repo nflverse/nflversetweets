@@ -1,0 +1,6 @@
+"created_at","user_id","screen_name","status_id","full_text"
+"Sun Sep 26 02:15:26 +0000 2021","3154004274","BRotoFFCasanova","1441949503863545857","The problem with air yards is that a deep target that had no business being caught will inflate a player's total artificially and make the number useless
+
+Here's a version that adjusts for completion probability to counteract this. Not perfect but maybe better
+
+#nflverse https://t.co/as5h1uW4Un"
