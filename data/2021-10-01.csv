@@ -5,3 +5,5 @@
 
 Data: #nflverse https://t.co/zniOD0hILM"
 "Fri Oct 01 14:02:42 +0000 2021","1442936984402632704","KFL_analytics","1443939433187786779","Working on some win probability and match-up luck in the KFL. Over the last three years, Nick's Fighting Ducks and Jeff's Slugs tied for the honor of luckiest win. Both won scoring a measly 47 points which gave them just a 4.8% chance of victory. #ffverse #nflverse #KFL https://t.co/YLSvHVvgF2"
+"Fri Oct 01 14:24:35 +0000 2021","1205557554442575878","mrcaseb","1443944941072363531","PSA: The nflfastR roster data in the #nflverse now provides headshot urls and pff ids for most 2021 rookies. 
+Get them with `nflreadr::load_rosters()`"
