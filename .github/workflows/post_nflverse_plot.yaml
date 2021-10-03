@@ -42,6 +42,7 @@ jobs:
           pak::local_system_requirements(execute = TRUE)
           pak::pak("ropensci/rtweet")
           pak::local_install_dev_deps()
+          install.packages("stringi", configure.args="--disable-pkg-config")
         shell: Rscript {0}
 
       - name: Run script
