@@ -36,8 +36,8 @@ jobs:
          path: |
            ${{ env.R_LIBS_USER }}/*
            !${{ env.R_LIBS_USER }}/pak
-         key: nflverse-tweets-${{ steps.install-r.outputs.installed-r-version }}-${{ hashFiles('.github/r-depends.rds') }}
-         restore-keys: nflverse-tweets-${{ steps.install-r.outputs.installed-r-version }}-
+         key: nflverse-tweets-${{ steps.install-r.outputs.installed-r-version }}-2-${{ hashFiles('.github/r-depends.rds') }}
+         restore-keys: nflverse-tweets-${{ steps.install-r.outputs.installed-r-version }}-2-
 
       - name: Install system dependencies
         run: |
