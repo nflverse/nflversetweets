@@ -17,4 +17,8 @@ Imports:
     dplyr (>= 1.0.7),
     purrr (>= 0.3.4),
     tidyr (>= 1.1.3),
-    rtweet (>= 0.7.0)
+    rtweet (>= 0.7.0),
+    lubridate (>= 1.7.10),
+    ggplot2 (>= 3.3.5),
+    hrbrthemes (>= 0.8.0),
+    ggtext (>= 0.1.1)
