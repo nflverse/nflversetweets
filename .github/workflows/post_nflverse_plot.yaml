@@ -21,8 +21,7 @@ jobs:
 
       - uses: r-lib/actions/setup-r@v1
         with:
-          install-r: true
-          update-rtools: true
+          use-public-rspm: true
 
       - name: Install pak and query dependencies
         run: |
@@ -41,7 +40,7 @@ jobs:
 
       - name: Install system dependencies
         run: |
-          pak::local_system_requirements(execute = FALSE)
+          pak::local_system_requirements(execute = TRUE)
           pak::pak("ropensci/rtweet")
           pak::local_install_dev_deps()
         shell: Rscript {0}
