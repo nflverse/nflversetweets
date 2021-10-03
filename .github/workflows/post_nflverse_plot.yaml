@@ -20,7 +20,9 @@ jobs:
       - uses: actions/checkout@v2
 
       - uses: r-lib/actions/setup-r@v1
-        id: install-r
+        with:
+          install-r: true
+          update-rtools: true
 
       - name: Install pak and query dependencies
         run: |
@@ -42,7 +44,6 @@ jobs:
           pak::local_system_requirements(execute = TRUE)
           pak::pak("ropensci/rtweet")
           pak::local_install_dev_deps()
-          install.packages("stringi", configure.args="--disable-pkg-config")
         shell: Rscript {0}
 
       - name: Run script
