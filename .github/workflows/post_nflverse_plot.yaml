@@ -42,6 +42,7 @@ jobs:
           pak::local_system_requirements(execute = TRUE)
           pak::pak(c("ropensci/rtweet"), dependencies = TRUE)
           pak::local_install_dev_deps(upgrade = TRUE)
+          remove.packages("stringi")
           install.packages("stringi", type="source")
         shell: Rscript {0}
 
