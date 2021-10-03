@@ -28,22 +28,20 @@ jobs:
           saveRDS(pak::pkg_deps("local::.", dependencies = TRUE), ".github/r-depends.rds")
         shell: Rscript {0}
 
-      # - name: Restore R package cache
-      #   uses: actions/cache@v2
-      #   with:
-      #     path: |
-      #       ${{ env.R_LIBS_USER }}/*
-      #       !${{ env.R_LIBS_USER }}/pak
-      #     key: dp-tweets-${{ steps.install-r.outputs.installed-r-version }}-${{ hashFiles('.github/r-depends.rds') }}
-      #     restore-keys: dp-tweets-${{ steps.install-r.outputs.installed-r-version }}-
+       - name: Restore R package cache
+         uses: actions/cache@v2
+         with:
+           path: |
+             ${{ env.R_LIBS_USER }}/*
+             !${{ env.R_LIBS_USER }}/pak
+           key: dp-tweets-1-${{ steps.install-r.outputs.installed-r-version }}-${{ hashFiles('.github/r-depends.rds') }}
+           restore-keys: dp-tweets-1-${{ steps.install-r.outputs.installed-r-version }}-
 
       - name: Install system dependencies
         run: |
           pak::local_system_requirements(execute = TRUE)
           pak::pak(c("ropensci/rtweet"), dependencies = TRUE)
           pak::local_install_dev_deps(upgrade = TRUE)
-          remove.packages("stringi")
-          install.packages("stringi", type="source")
         shell: Rscript {0}
 
       - name: Run script
