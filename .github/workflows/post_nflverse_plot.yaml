@@ -36,12 +36,12 @@ jobs:
          path: |
            ${{ env.R_LIBS_USER }}/*
            !${{ env.R_LIBS_USER }}/pak
-         key: nflverse-tweets-${{ steps.install-r.outputs.installed-r-version }}-2-${{ hashFiles('.github/r-depends.rds') }}
-         restore-keys: nflverse-tweets-${{ steps.install-r.outputs.installed-r-version }}-2-
+         key: nflverse-tweets-${{ steps.install-r.outputs.installed-r-version }}-${{ hashFiles('.github/r-depends.rds') }}
+         restore-keys: nflverse-tweets-${{ steps.install-r.outputs.installed-r-version }}-
 
       - name: Install system dependencies
         run: |
-          pak::local_system_requirements(execute = TRUE)
+          pak::local_system_requirements(execute = FALSE)
           pak::pak("ropensci/rtweet")
           pak::local_install_dev_deps()
         shell: Rscript {0}
