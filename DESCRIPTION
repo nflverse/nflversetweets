@@ -21,6 +21,4 @@ Imports:
     lubridate (>= 1.7.10),
     ggplot2 (>= 3.3.5),
     hrbrthemes (>= 0.8.0),
-    ggtext (>= 0.1.1),
-    stringr (>= 1.4.0),
-    stringi (>= 1.7.4)
+    ggtext (>= 0.1.1)

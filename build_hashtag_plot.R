@@ -31,7 +31,7 @@ all_days <- tibble::tibble(created_at = lubridate::as_date(start:stop))
 last_week <- nflversetweets |>
   dplyr::filter(!is.na(created_at)) |>
   dplyr::mutate(
-    created_at = glue::glue("{stringr::str_sub(created_at, -4)}-{stringr::str_sub(created_at, 5,7)}-{stringr::str_sub(created_at, 9,10)}"),
+    created_at = glue::glue("{substr(created_at, nchar(created_at)-4, nchar(created_at))}-{substr(created_at, 5,7)}-{substr(created_at, 9,10)}"),
     created_at = lubridate::as_date(created_at)
   ) |>
   dplyr::filter(created_at < stop) |>
