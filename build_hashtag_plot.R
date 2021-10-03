@@ -26,7 +26,7 @@ nflversetweets <- rtweet::search_tweets("#nflverse",
 start <- lubridate::floor_date(lubridate::today("America/New_York") - 1, "week", 1)
 # latest Sunday
 stop <-  lubridate::floor_date(lubridate::today("America/New_York"), "week", 7)
-all_days <- tibble::tibble(created_at = lubridate::as_date(start:stop))
+all_days <- data.frame(created_at = lubridate::as_date(start:stop))
 
 last_week <- nflversetweets |>
   dplyr::filter(!is.na(created_at)) |>
