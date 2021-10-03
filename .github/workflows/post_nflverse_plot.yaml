@@ -7,7 +7,7 @@ name: post_nflverse_plot
 
 jobs:
   retweet_nflverse:
-    runs-on: ubuntu-20.04
+    runs-on: macOS-latest
     env:
       RSPM: https://packagemanager.rstudio.com/cran/__linux__/bionic/latest
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
@@ -15,6 +15,7 @@ jobs:
       TWITTERACCESSTOKENSECRET: ${{ secrets.TWITTERACCESSTOKENSECRET }}
       TWITTERAPIKEY: ${{ secrets.TWITTERAPIKEY }}
       TWITTERAPISECRET: ${{ secrets.TWITTERAPISECRET }}
+      R_KEEP_PKG_SOURCE: yes
 
     steps:
       - uses: actions/checkout@v2
@@ -26,7 +27,7 @@ jobs:
       - name: Install pak and query dependencies
         run: |
           install.packages("pak", repos = "https://r-lib.github.io/p/pak/dev/")
-          saveRDS(pak::pkg_deps("local::.", dependencies = TRUE), ".github/r-depends.rds")
+          saveRDS(pak::pkg_deps("local::.", dependencies = TRUE), ".github/r-depends_mac.rds")
         shell: Rscript {0}
 
       - name: Restore R package cache
@@ -35,7 +36,7 @@ jobs:
          path: |
            ${{ env.R_LIBS_USER }}/*
            !${{ env.R_LIBS_USER }}/pak
-         key: nflverse-tweets-${{ steps.install-r.outputs.installed-r-version }}-${{ hashFiles('.github/r-depends.rds') }}
+         key: nflverse-tweets-${{ steps.install-r.outputs.installed-r-version }}-${{ hashFiles('.github/r-depends_mac.rds') }}
          restore-keys: nflverse-tweets-${{ steps.install-r.outputs.installed-r-version }}-
 
       - name: Install system dependencies
