@@ -40,8 +40,8 @@ jobs:
       - name: Install system dependencies
         run: |
           pak::local_system_requirements(execute = TRUE)
-          pak::pak(c("ropensci/rtweet"), dependencies = TRUE)
-          pak::local_install_dev_deps(upgrade = TRUE)
+          pak::pak(c("ropensci/rtweet"))
+          pak::local_install_dev_deps()
         shell: Rscript {0}
 
       - name: Run script
