@@ -1,0 +1,34 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 17 * * MON' # post every Monday on 5pm UTC
+
+name: post_nflverse_plot
+
+jobs:
+  post_nflverse_plot:
+    runs-on: macOS-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      TWITTERACCESSTOKEN: ${{ secrets.TWITTERACCESSTOKEN }}
+      TWITTERACCESSTOKENSECRET: ${{ secrets.TWITTERACCESSTOKENSECRET }}
+      TWITTERAPIKEY: ${{ secrets.TWITTERAPIKEY }}
+      TWITTERAPISECRET: ${{ secrets.TWITTERAPISECRET }}
+      R_KEEP_PKG_SOURCE: yes
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v1
+        with:
+          use-public-rspm: true
+
+      - uses: r-lib/actions/setup-r-dependencies@v1
+        with:
+          cache-version:
+            required: false
+          extra-packages: ropensci/rtweet
+
+      - name: Run script
+        run: |
+          source("build_hashtag_plot.R", chdir = TRUE)
+        shell: Rscript {0}
