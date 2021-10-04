@@ -3,6 +3,12 @@ suppressPackageStartupMessages({
   library(dplyr, warn.conflicts = FALSE)
   library(ggplot2, warn.conflicts = FALSE)
 })
+options(warn = 1)
+
+cli::cli_alert_info("Manage Fonts...")
+extrafont::loadfonts()
+systemfonts::register_font("Roboto Condensed", system.file("fonts", "roboto-condensed", package="hrbrthemes"))
+systemfonts::match_font("Roboto")
 
 cli::cli_alert_info("Setup Bot...")
 api_key <- Sys.getenv("TWITTERAPIKEY")
@@ -68,9 +74,6 @@ plot <- last_week |>
   )
 
 cli::cli_alert_info("Save Plot...")
-options(warn = 1)
-# options(hrbrthemes.loadfonts = TRUE)
-systemfonts::register_font("Roboto Condensed", system.file("fonts", "roboto-condensed", package="hrbrthemes"))
 ggplot2::ggsave("plot.png", width = 17, height = 12, units = "cm", dpi = 600)
 
 cli::cli_alert_info("Post Plot...")
