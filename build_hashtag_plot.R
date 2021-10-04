@@ -68,6 +68,7 @@ plot <- last_week |>
   )
 
 cli::cli_alert_info("Save Plot...")
+options(warn = 1)
 options(hrbrthemes.loadfonts = TRUE)
 sysfonts::font_add_google("Roboto Condensed")
 ggplot2::ggsave("plot.png", width = 17, height = 12, units = "cm", dpi = 600)
