@@ -4,6 +4,8 @@ suppressPackageStartupMessages({
   library(ggplot2, warn.conflicts = FALSE)
 })
 
+options(hrbrthemes.loadfonts = TRUE)
+
 api_key <- Sys.getenv("TWITTERAPIKEY")
 api_secret <- Sys.getenv("TWITTERAPISECRET")
 access_token <- Sys.getenv("TWITTERACCESSTOKEN")
