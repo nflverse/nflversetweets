@@ -55,7 +55,12 @@ plot <- last_week |>
     caption = "Data: rtweet | Plot: @mrcaseb"
   ) +
   ggplot2::scale_y_continuous(breaks = scales::breaks_pretty()) +
-  hrbrthemes::theme_modern_rc(plot_margin = ggplot2::margin(10, 10, 10, 10), grid = "Y") +
+  hrbrthemes::theme_modern_rc(
+    plot_margin = ggplot2::margin(10, 10, 10, 10),
+    grid = "Y",
+    subtitle_family = "Roboto Condensed",
+    caption_family = "Roboto Condensed"
+  ) +
   ggplot2::theme(
     axis.title.x = ggplot2::element_blank(),
     plot.title.position = "plot",
@@ -63,6 +68,7 @@ plot <- last_week |>
   )
 
 cli::cli_alert_info("Save Plot...")
+options(hrbrthemes.loadfonts = TRUE)
 sysfonts::font_add_google("Roboto Condensed")
 ggplot2::ggsave("plot.png", width = 17, height = 12, units = "cm", dpi = 600)
 
