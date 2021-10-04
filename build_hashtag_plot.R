@@ -1,11 +1,14 @@
 suppressPackageStartupMessages({
   library(rtweet)
-  library(dplyr, warn.conflicts = FALSE)
-  library(ggplot2, warn.conflicts = FALSE)
+  library(dplyr)
+  library(ggplot2)
+  library(showtext)
 })
 options(warn = 1)
 
 cli::cli_alert_info("Manage Fonts...")
+sysfonts::font_add_google("Roboto Condensed")
+showtext::showtext_auto()
 # extrafont::loadfonts()
 # systemfonts::register_font(
 #   "Roboto Condensed",
@@ -16,9 +19,9 @@ cli::cli_alert_info("Manage Fonts...")
 #                      "RobotoCondensed-bold.ttf",
 #                      package="hrbrthemes")
 #   )
-extrafont::font_import(system.file("fonts", "roboto-condensed", package="hrbrthemes"), prompt=FALSE)
-print(systemfonts::match_font("Roboto"))
-print(systemfonts::system_fonts() |> tail(20))
+# extrafont::font_import(system.file("fonts", "roboto-condensed", package="hrbrthemes"), prompt=FALSE)
+# print(systemfonts::match_font("Roboto"))
+# print(systemfonts::system_fonts() |> tail(20))
 
 cli::cli_alert_info("Setup Bot...")
 api_key <- Sys.getenv("TWITTERAPIKEY")
