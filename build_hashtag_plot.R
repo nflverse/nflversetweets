@@ -7,15 +7,16 @@ options(warn = 1)
 
 cli::cli_alert_info("Manage Fonts...")
 # extrafont::loadfonts()
-systemfonts::register_font(
-  "Roboto Condensed",
-  plain = system.file("fonts", "roboto-condensed",
-                      "RobotoCondensed-Regular.ttf",
-                      package="hrbrthemes"),
-  bold = system.file("fonts", "roboto-condensed",
-                     "RobotoCondensed-bold.ttf",
-                     package="hrbrthemes")
-  )
+# systemfonts::register_font(
+#   "Roboto Condensed",
+#   plain = system.file("fonts", "roboto-condensed",
+#                       "RobotoCondensed-Regular.ttf",
+#                       package="hrbrthemes"),
+#   bold = system.file("fonts", "roboto-condensed",
+#                      "RobotoCondensed-bold.ttf",
+#                      package="hrbrthemes")
+#   )
+extrafont::font_import(system.file("fonts", "roboto-condensed", package="hrbrthemes"), prompt=FALSE)
 print(systemfonts::match_font("Roboto"))
 print(systemfonts::system_fonts() |> tail(20))
 
