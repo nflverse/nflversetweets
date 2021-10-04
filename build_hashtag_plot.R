@@ -5,6 +5,7 @@ suppressPackageStartupMessages({
 })
 
 options(hrbrthemes.loadfonts = TRUE)
+hrbrthemes::import_roboto_condensed()
 
 api_key <- Sys.getenv("TWITTERAPIKEY")
 api_secret <- Sys.getenv("TWITTERAPISECRET")

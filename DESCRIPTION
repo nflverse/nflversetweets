@@ -20,7 +20,6 @@ Imports:
     rtweet (> 0.7.0),
     lubridate (>= 1.7.10),
     ggplot2 (>= 3.3.5),
-    hrbrthemes (>= 0.8.0),
     ggtext (>= 0.1.1)
 Remotes:
     ropensci/rtweet
