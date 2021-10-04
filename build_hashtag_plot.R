@@ -7,6 +7,7 @@ suppressPackageStartupMessages({
 options(hrbrthemes.loadfonts = TRUE)
 hrbrthemes::import_roboto_condensed()
 
+cli::cli_alert_info("Setup Bot...")
 api_key <- Sys.getenv("TWITTERAPIKEY")
 api_secret <- Sys.getenv("TWITTERAPISECRET")
 access_token <- Sys.getenv("TWITTERACCESSTOKEN")
@@ -20,6 +21,7 @@ bot <- rtweet::rtweet_bot(
 
 rtweet::auth_as(bot)
 
+cli::cli_alert_info("Load and Prepare Data...")
 nflversetweets <- rtweet::search_tweets("#nflverse",
                                         n = 1000,
                                         include_rts = FALSE,
@@ -44,6 +46,7 @@ last_week <- nflversetweets |>
   dplyr::count(post_day) |>
   dplyr::mutate(n = n - 1L)
 
+cli::cli_alert_info("Build Plot...")
 plot <- last_week |>
   ggplot2::ggplot(aes(x = post_day, y = n)) +
   ggplot2::geom_col(width = 0.75, color = "white", fill = "#1B95E0") +
@@ -62,10 +65,14 @@ plot <- last_week |>
     plot.title = ggtext::element_markdown()
   )
 
+cli::cli_alert_info("Save Plot...")
 ggplot2::ggsave("plot.png", width = 17, height = 12, units = "cm", dpi = 600)
 
+cli::cli_alert_info("Post Plot...")
 rtweet::post_tweet(
   status = "Number of nflverse tweets over the last week, posted through #rstats courtesy of #rtweet!",
   media = "plot.png",
   media_alt_text = "Number of tweets using the #nflverse hashtag."
 )
+
+cli::cli_alert_info("DONE!")
