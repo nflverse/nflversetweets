@@ -21,6 +21,6 @@ Imports:
     lubridate (>= 1.7.10),
     ggplot2 (>= 3.3.5),
     ggtext (>= 0.1.1),
-    sysfonts (>= 0.8.5)
+    systemfonts (>= 1.0.2)
 Remotes:
     ropensci/rtweet
