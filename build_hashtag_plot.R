@@ -5,10 +5,10 @@ suppressPackageStartupMessages({
 })
 options(warn = 1)
 
-cli::cli_alert_info("Manage Fonts...")
-extrafont::loadfonts()
-systemfonts::register_font("Roboto Condensed", system.file("fonts", "roboto-condensed", package="hrbrthemes"))
-systemfonts::match_font("Roboto")
+# cli::cli_alert_info("Manage Fonts...")
+# extrafont::loadfonts()
+# systemfonts::register_font("Roboto Condensed", system.file("fonts", "roboto-condensed", package="hrbrthemes"))
+# systemfonts::match_font("Roboto")
 
 cli::cli_alert_info("Setup Bot...")
 api_key <- Sys.getenv("TWITTERAPIKEY")
@@ -64,8 +64,9 @@ plot <- last_week |>
   hrbrthemes::theme_modern_rc(
     plot_margin = ggplot2::margin(10, 10, 10, 10),
     grid = "Y",
-    subtitle_family = "Roboto Condensed",
-    caption_family = "Roboto Condensed"
+    base_family = "",
+    subtitle_family = "",
+    caption_family = ""
   ) +
   ggplot2::theme(
     axis.title.x = ggplot2::element_blank(),
