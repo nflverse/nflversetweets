@@ -24,8 +24,7 @@ jobs:
 
       - uses: r-lib/actions/setup-r-dependencies@v1
         with:
-          cache-version:
-            required: false
+          cache-version: 2
           extra-packages: ropensci/rtweet
 
       - name: Run script
