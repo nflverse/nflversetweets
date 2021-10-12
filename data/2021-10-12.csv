@@ -160,3 +160,6 @@ Using data from the #nflverse, here is a look at the percentage of times a team'
 "Tue Oct 05 23:30:56 +0000 2021","839942645883551744","_TanHo","1445531986194427904","nflreadr v1.1.1 is now available on CRAN! It features some new helper functions, a few additional dataframes, and bugfixes. More in the news release here 👇https://t.co/Z1UbNULoUS
 
 #nflverse #rstats https://t.co/RBTaOcyfTN"
+"Tue Oct 12 15:56:00 +0000 2021","40782542","reinhurdler","1447954210968977425","Expected PPR fantasy points distributions for WRs/TEs on targets from Weeks 1-5!
+
+Data: #nflverse https://t.co/cB2VhTRUsc"
