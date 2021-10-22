@@ -1110,3 +1110,102 @@ data: #nflverse https://t.co/MCq5Y6Cspo"
 Hoje será mais um jogo para ele provar isso.
 
 #RStats #ggplot2 #nflverse https://t.co/hnGOWHQRgh"
+"Tue Oct 19 12:45:00 +0000 2021","1081617957439049729","ThePuntRunts","1450442859451232267","It's that time - week 6 punter EPA rankings! #nflverse
+
+#RaiderNation  AJ Cole III hangs onto the top spot
+#OnePride  Jack Fox close on his heels https://t.co/A0pl4Nn5SR"
+"Thu Oct 14 16:18:52 +0000 2021","1205557554442575878","mrcaseb","1448684743747411973","#nflverse data are for all and explicitly not only for R users! https://t.co/gjmN3wpjI6"
+"Fri Oct 15 14:22:19 +0000 2021","1205557554442575878","mrcaseb","1449017797787455495","The first thing I did in NFL analytics about 2 years ago was special teams EPA plots. I forgot that completely until I saw that @EthanCDouglas' DPR also uses special teams performance so I decided to rebuild the EPA plots with #nflverse. 
+Here's special teams performace by week 5 https://t.co/d3N2O8o6ch"
+"Thu Oct 21 04:55:04 +0000 2021","1333640422435024897","patpAItriot","1451049372817534983","Made a team logo scatter plot to try see if some teams are better at converting certain kinds of third downs. Turns out they are. NE for example is way above the median before 8 yards, and hit a wall on third and long. #nflverse https://t.co/c9QEuARlTf"
+"Sun Oct 17 13:30:00 +0000 2021","1365340156069306371","deepvaluebettor","1449729409385222144","bettor p/l for NFL Week 5 was a microcosm of broader season-to-date performance: 
+
+📈boys, bills, cards, packers, chargers bettors are swimming in cash (21-4 ATS)
+
+📉chiefs, niners, jaguars, jets, WFT bettors are bleeding out (5-20 ATS)
+
+when does mkt correct?
+
+#nflverse #rstats https://t.co/kBUzVt27Xv"
+"Thu Oct 14 01:36:38 +0000 2021","1369000075666591745","cdvalenti","1448462721427595265","Week 5 of NFL QB DICK Size... Scoring each QB by aDOT and Passing TDs. 
+
+Updates:
+- Dot sizes represent pass attempts
+- Team colors
+- Andy Dalton officially filtered out
+
+Data: #nflverse https://t.co/vFxJ0NcjfO"
+"Thu Oct 14 02:19:33 +0000 2021","1415047596293378050","CDFBAnalysis","1448473522888712195","Which RBs are expected to increase their red zone TD total this season?
+
+*One thing to note is that, yes, Jalen Hurts has 10 rush attempts in the red zone.
+
+Also, this is definitely not a Jonathan Taylor tweet. Nope. Not one bit.
+
+#nflverse https://t.co/os0Oma4hWO"
+"Wed Oct 20 19:08:09 +0000 2021","1433130120945020929","YinzsideTheGame","1450901670964219908","The #WeeklyMeanYAC Report for #NFL Week 6
+#nflverse https://t.co/jsHf69lKDD"
+"Thu Oct 14 19:42:55 +0000 2021","1442936984402632704","KFL_analytics","1448736091159285766","KFL analysis will be on light side (only wk recaps) for the next few weeks as I work on a Shiny R website for the league. Will have all time records, H2H results and the ability to download your historical records against any opponent. Any suggestions? #KFL #ffverse #nflverse https://t.co/dKFDjsTZA7"
+"Thu Oct 14 13:49:49 +0000 2021","29360193","davisj2007","1448647232232689667","We're through 5 weeks and maybe the @steelers are showing signs of life!  Well, at least in my eyes - to my model, things are still pretty grim. See the end of season projections, &amp; marvel at the @Chiefs, a team that my model thinks is foundational...meh.  We'll see!  #nflverse https://t.co/2zq0HR3AuR https://t.co/mxApsm4gkz"
+"Thu Oct 14 13:49:51 +0000 2021","29360193","davisj2007","1448647242106097681","Week 6 game predictions - remember, the model doesn't know anything about injuries or fundamental changes (Gruden), but should ""learn"" relatively quickly from the games played in that environment, so will be interesting to see how @Broncos and the @Seahawks fare #nflverse https://t.co/pLoibdnyx5"
+"Thu Oct 14 13:49:53 +0000 2021","29360193","davisj2007","1448647251178319879","And two new features this week - projected team wins and playoff probabilities over time - track your favorite team's rising and falling stock through their dynamic end of year projections #nflverse https://t.co/9icTO55Tpn"
+"Wed Oct 20 18:27:11 +0000 2021","3154004274","BRotoFFCasanova","1450891359993409539","I've been slacking but here are the OA-EPA team tiers through week 6 
+
+KC almost dropping outside of the top tier😬
+
+The NYG = WAS explains why that game was so intense
+
+Also, who knows how the Steelers beat the Bills
+
+#nflverse #NFL https://t.co/Jo7yHy9WaL"
+"Sat Oct 16 03:18:26 +0000 2021","3196394099","ak47twq","1449213117557137410","week 1 to week 5, with or without int and fumble.
+with #nflverse https://t.co/dxXfWEhQei"
+"Wed Oct 13 23:42:23 +0000 2021","37262155","G_ROG","1448433970153066496","QB Adjusted EPA per Play through week 5 
+- Mahomes played the worst game of his career (prediction: he'll be fine)
+- Ryan Tannehill and Matt Ryan are slowly making their way back to their career averages
+- Stafford has played above his career average in all five games 
+
+#nflverse https://t.co/WVexKaYvjd"
+"Thu Oct 21 23:23:58 +0000 2021","37262155","G_ROG","1451328436551577613","QB Adjusted EPA per Play through week 6
+Not a ton of changes, but Tannehill keeps coming back to his baseline and Mahomes is just fine after a flop in week 5. #nflverse https://t.co/rtfncBa6o4"
+"Fri Oct 15 16:02:00 +0000 2021","40782542","reinhurdler","1449042885081374724","Looking at rookie QBs since 2006 through five weeks, Mac Jones has the second best CPOE, behind only Trent Edwards.
+
+Trey Lance has played a good deal less, but his CPOE is better than only Jimmy Clausen thus far.
+
+Data: #nflverse https://t.co/cXi2r25Ii7"
+"Tue Oct 19 13:07:00 +0000 2021","40782542","reinhurdler","1450448395970048008","Expected PPR fantasy point distributions from targets in the first six weeks for each team's four most targeted TEs/WRs
+
+Data: #nflverse https://t.co/xGGRAUmZNi"
+"Wed Oct 20 22:26:00 +0000 2021","40782542","reinhurdler","1450951460498264067","Here is how much each team has played their top six 2021 draft picks  on offense and defense as we enter Week 7.
+
+Data: #nflverse https://t.co/wvlH7jcIhl"
+"Tue Oct 19 12:09:08 +0000 2021","4222495623","KentWeyrauch","1450433834797998084","With Chubb and Hunt both potentially out this week, the best week 7 running back in terms of forced missed tackles and explosive run rate might be...
+
+Javonte Williams.
+
+#NFLverse https://t.co/F4eI75UvbM"
+"Sat Oct 16 14:20:27 +0000 2021","451578920","andreacasiragh1","1449379719481368582","Offense Vs. Blitz.
+
+Bills's defense have never blitzed Mahomes last week and this is a trend from week 1. 
+
+Quarterback rookies are in troubles, except Mac Jones. 
+
+Why blitz dak so much?
+
+Big Thanks to @reinhurdler for id map. 
+One of the best analytics guy!!
+#nflverse https://t.co/TEVXUtduPh"
+"Wed Oct 20 10:15:10 +0000 2021","534111288","BenHorsley89","1450767543501688837","After Henry's huge performance in Week 6, I looked at EPA by quarter amongst RBs to confirm the commentary about the 👑's dominance late in games. It appears to check out, and look at Chubb! 👀 #nflverse #NFLTwitter https://t.co/4TxRsDUnC8"
+"Fri Oct 15 17:51:44 +0000 2021","617757984","ConorMcQ5","1449070501372985345","Investigating if underdogs win more games with less possessions w #nflverse data &amp; they don't 
+
+Small (0-3 pt spread) and Clear (3.5-7) underdogs have no relationship btwn possessions and Win %. Heavy underdogs (7.5+), on the other hand, win slightly more w more possessions! https://t.co/1ALry3JQJo"
+"Tue Oct 19 13:44:06 +0000 2021","726939781507125248","BradCongelio","1450457733757603855","Academic advising for Spring 2022 classes starts today. I am going to suggest my new course, SPT 313 - Sport Analytics, to every.single.student. 
+
+... cannot wait to introduce them to @nflfastR (and the entire #nflverse), baseballr (paging @BillPetti &amp; @SaiemGilani), and more. https://t.co/XcnOqsklfk"
+"Tue Oct 19 13:40:52 +0000 2021","839942645883551744","_TanHo","1450456919139917827","@BaumerBen 🙌 made some contributions for #nflverse and ffverse packages :)"
+"Mon Oct 18 16:49:59 +0000 2021","935526760023777280","BrunoHMioto","1450142124096303115","This sunday's game was the 2nd best of Kyler Murray career in terms of production. This 6-0 Cardinals team is great!
+
+data: #nflverse https://t.co/MCq5Y6Cspo"
+"Mon Oct 18 23:20:22 +0000 2021","935526760023777280","BrunoHMioto","1450240369363341319","Josh Allen teve um avanço incrível de produção na temporada 2021, e chega hoje após seu 3º melhor jogo da carreira em termos de produção.
+Hoje será mais um jogo para ele provar isso.
+
+#RStats #ggplot2 #nflverse https://t.co/hnGOWHQRgh"
