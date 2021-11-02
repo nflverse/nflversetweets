@@ -226,3 +226,111 @@ His last game against Texans was better than 97% of all his games.
 
 Data: #nflverse 
 #RStats #ggplot2 https://t.co/a3co23F4d8"
+"Tue Oct 26 12:04:00 +0000 2021","1081617957439049729","ThePuntRunts","1452969256799277064","Week 7 Puntalytics Update:
+Not much change at the top as #RaiderNation AJ Cole widens his gap on the field
+
+Turns out that NFL level punters &gt; replacement level punters though
+
+#nflverse https://t.co/PPa0SC0Ix7"
+"Tue Nov 02 12:03:00 +0000 2021","1081617957439049729","ThePuntRunts","1455505720384884742","And on the 8th week, AJ Cole had a bye and rested on his laurels
+
+Side note, what's happening in Carolina?!?
+
+#nflverse #ForTheBrand https://t.co/uPpmQZrjjQ"
+"Mon Oct 25 23:19:22 +0000 2021","1194759040657551361","tejfbanalytics","1452776829404782601","tutorial #3 on modeling in R is out! this one covers making a logistic regression model to measure field goal kickers (seen below) and a linear regression model to see which quarterbacks are aggressive #nflverse
+
+youtube link: https://t.co/Kzls4F9d9d https://t.co/QPO9TPPzTa"
+"Wed Oct 27 15:08:11 +0000 2021","1205557554442575878","mrcaseb","1453377995113181188","Doing this per player is fun
+#nflverse #rstats https://t.co/8BM17tSR48"
+"Tue Nov 02 17:29:14 +0000 2021","1205557554442575878","mrcaseb","1455587821977223169","A lot of people are talking about the decline of the Chiefs offense in the last couple of weeks. I checked the evolution of each team's offensive epa using rolling averages and the Chiefs' struggles can be clearly seen. 
+Data: #nflverse https://t.co/3XY4i53jAI"
+"Mon Nov 01 22:51:42 +0000 2021","1337945775914045442","throwthedamball","1455306584586956803","It is one thing to build a lead in the NFL, it is another to extend leads. Pre MNF, and using success rate(SR), we can get a sense of which teams have been best extending leads so far. Here is each team's SR &amp; number of plays run with comfortable leads #nflverse https://t.co/DEo8tkR8Vt"
+"Tue Oct 26 14:05:00 +0000 2021","1365340156069306371","deepvaluebettor","1452999707400314890","the outperformance of heavy NFL favorites season-to-date is downright obnoxious 😒
+
+backtesting a zero-CLV strategy of blindly betting -300 and ^ sides on spread + ML ('to win' $100/bet) from weeks 1-7 since '06 has never been more profitable. a 2-sigma event.
+
+#rstats #nflverse https://t.co/ARVc4HbgWP https://t.co/gK8zYwCAI2"
+"Tue Oct 26 14:55:00 +0000 2021","1365340156069306371","deepvaluebettor","1453012290329104395","if you blindly bet all -300 and ^ favorites 'to win' $100 on both spread + ML (+ zero-CLV) you'd be up over $3,000 on the season 👁️👄👁️
+
+no other yr since '06 (limit of dataset) comes even close.  next best was '07 when the ""strategy"" yielded $1,200 (-$2,800 in '17). #nflverse https://t.co/tdnCxv3Xgg"
+"Wed Oct 27 13:50:00 +0000 2021","1365340156069306371","deepvaluebettor","1453358320128036867","we demonstrated the unprecedented success of betting NFL favorites this yr: but how long can it last?
+
+there were 6 other instances since '06 where blindly betting heavy favorites yielded + pnl thru 7 weeks: decisive reversion 66% of the time over the next 10 weeks 
+
+#nflverse https://t.co/MIo91H1QYq https://t.co/7YTc4XxqSW"
+"Sat Oct 30 15:38:52 +0000 2021","1370449271540043776","_pranavrajaram","1454472883980414987","The ""Ja'Marr Chase down there somewhere"" effect: Cincinnati is 8th in points scored this year, but dead last (!) in Red Zone plays. Takeaways:
+📈Joe Mixon is probably due for some positive touchdown regression`
+🤷‍♂️Unlikely that Chase can keep scoring 50 yarders each week
+#nflverse https://t.co/olekVHf8lN"
+"Sat Oct 30 03:01:01 +0000 2021","1371650306732351491","BabhBear","1454282163076145153","Finally, finally finished up this graph. 
+
+Here are the EPA distributions for our 2021 rookie QB's on dropbacks. 
+
+Big thanks to @CedScherer  @BrunoHMioto @mrcaseb  who walked me through my struggles. It really is amazing the kind of help people provide on here! 
+
+#nflverse https://t.co/amfhF6JjPR"
+"Wed Oct 27 16:35:02 +0000 2021","1433130120945020929","YinzsideTheGame","1453399853657206786","Top 10 #NFL leaders in Mean Yards After Catch, Week 8. Ja'Marr Chase already becoming one of the most electric playmakers in the NFL. #WeeklyMeanYACReport 
+#nflverse https://t.co/r8noCz3mDY"
+"Wed Oct 27 09:26:21 +0000 2021","2676650195","forbesie82","1453291972702113796","@NFLUK @NFL As a UK fan I think you should release a limited edition set of team caps with the Union Jack on them! 
+#NFL #nflverse #manycountriesonegame"
+"Sat Oct 30 17:39:48 +0000 2021","2836111214","LeeSharpeNFL","1454503314519838721","@reinhurdler This is really tricky though. It's impossible using #nflverse level data to understand whether - if not for the penalty - the penalty-free outcome is what would have happened (e.g. an offensive hold may have prevented a sack)."
+"Wed Oct 27 13:13:49 +0000 2021","29360193","davisj2007","1453349216240144391","Moving into week 8, my #nfl model continues to calibrate (and frankly, come to its senses after last week!). After the surprise beatdown of the @Ravens, the @Bengals climb the projection table into a pole position in the AFC - I'm not sure I buy it! #nflverse https://t.co/2zq0HRlbTr https://t.co/qLKpZil7kT"
+"Wed Oct 27 13:13:51 +0000 2021","29360193","davisj2007","1453349223060148230","The model had its best week in @FiveThirtyEight &amp; @LeeSharpeNFL prediction game last week, calling the @Titans dominance of the @Chiefs.  This week's bold predictions? @ChicagoBears over @49ers and a toss up in @Buccaneers #nflverse https://t.co/MSRYuAVb0T"
+"Wed Oct 27 13:13:52 +0000 2021","29360193","davisj2007","1453349229628436483","Here are the model's estimates of the ""true"" underlying team strength, with uncertainty bands.  Clear tiers are emerging in both conferences - what stands out to you? #nflverse https://t.co/ZxzwLDPz6F"
+"Wed Oct 27 18:22:03 +0000 2021","3154004274","BRotoFFCasanova","1453426784599482373","Updated turnover risk/damage chart
+
+Bottom left is calculated risk-takers
+
+Top left is careful but unlucky 
+
+Bottom right is reckless but lucky
+
+Top right is the irresponsible corner
+
+#nflverse https://t.co/udWXT3nrHg"
+"Fri Oct 29 14:58:17 +0000 2021","3196394099","ak47twq","1454100279859707913","how Stafford 300 TD came
+from #nflverse #OnePride https://t.co/rNP8l4nZiD"
+"Sat Oct 30 10:48:53 +0000 2021","3196394099","ak47twq","1454399906517426182","Epa/play with or without INT and FUM
+from #nflverse https://t.co/wUQ5gnFW5g"
+"Tue Nov 02 15:02:17 +0000 2021","3196394099","ak47twq","1455550839691481096","mike white first game vs. newton first game.
+from #nflverse #TakeFlight https://t.co/zlSLEi4JRR"
+"Tue Oct 26 16:03:03 +0000 2021","40782542","reinhurdler","1453029414359470094","Cumulative point differential for each team at the end of each quarter. Top first half point differentials in 2021:
+
+1) TB (+68)
+2) BUF (+67)
+3) ARI (+55)
+4) CAR (+40)
+5) CLE (+31)
+
+Data: #nflverse https://t.co/GI17nljf9u"
+"Tue Oct 26 22:25:00 +0000 2021","40782542","reinhurdler","1453125536046219264","I saw a lot of talk about how boring this week's slate of games were, so I looked into it. The data generally supports that notion.
+
+Data: #nflverse https://t.co/wc0wn4KOXW"
+"Wed Oct 27 16:02:16 +0000 2021","40782542","reinhurdler","1453391607747784714","How much does each QB's EPA+CPOE Index change if we assume all of their dropped passes in 2021 were caught?
+
+Stafford and Murray are still 1-2, but Mahomes and Brady get a nice bump. Aaron Rodgers would fall from 3rd to 9th.
+
+Data: #nflverse / Sportradar https://t.co/EmjImsTwTk"
+"Mon Oct 25 21:15:40 +0000 2021","451578920","andreacasiragh1","1452745701721579528","Mac Jones and Trevor Lawrence will be the new Herbert/Burrow duo.
+
+#nflverse https://t.co/sJnEfXhTqw"
+"Wed Oct 27 18:18:35 +0000 2021","451578920","andreacasiragh1","1453425911479549959","Ja'Marr Chase and his new record. 
+Whaaatttt?!?!? 😳
+
+@Real10jayy__
+#nflverse https://t.co/zgTmI4PN1b"
+"Mon Nov 01 13:17:14 +0000 2021","451578920","andreacasiragh1","1455162013634777088","Through the first 8 week, the xp conversion percentage is the lower since 2015 new rule and it could be worst at the end of regular season.
+
+Since 2015, only the Chargers has twice under 80% perc O.o
+
+#nflverse 
+#nfldaznitaly https://t.co/tTZUik7olx"
+"Thu Oct 28 23:51:11 +0000 2021","465857634","mikeyirene","1453872003778293782","Updated Field Goals over Expected results through Week 7:
+#nflverse https://t.co/3zwIP4yas4"
+"Mon Oct 25 14:57:12 +0000 2021","935526760023777280","BrunoHMioto","1452650456094846984","Patrick Mahomes ALMOST (by 0.01 EPA/play) had their worst game ever this last Sunday. The worst? SB LV.
+#nflverse #RStats #ggplot2 https://t.co/EgEIy1uw1K"
+"Mon Nov 01 14:37:26 +0000 2021","935526760023777280","BrunoHMioto","1455182195333767170","Matthew Stafford keeps having greater games with Rams than he had his entire career with Lions.
+His last game against Texans was better than 97% of all his games.
+
+Data: #nflverse 
+#RStats #ggplot2 https://t.co/a3co23F4d8"
