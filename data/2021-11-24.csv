@@ -5,3 +5,6 @@
 🏈 Mark Sanchez obviously remains an NFL Thanksgiving icon
 
 Data: #nflverse https://t.co/OMPV7o455y"
+"Wed Nov 24 22:20:18 +0000 2021","29360193","davisj2007","1463633601589874693","Welp, I am extremely mad at myself.  After running this week's simulations and seeing that - checks notes - the @steelers were estimated to be the 3rd best team in the nation, I knew something was amiss.  #nflverse https://t.co/2zq0HRlbTr"
+"Wed Nov 24 22:20:18 +0000 2021","29360193","davisj2007","1463633603515097095","So I went digging through my code, and low and behold, a single instance in which I called ""predict"" on a gamlss object, but used ""new_data"" instead of ""newdata"", meaning that the simulation was looping through training data predictions #nflverse"
+"Wed Nov 24 22:20:19 +0000 2021","29360193","davisj2007","1463633605079539715","This, of course, was not ideal, and while its issue was mitigated by the other parts of the algorithm, it obviously was causing incorrect outcomes, and therefore, poor estimates of strength and game-by-game predictions.  I am deeply sorry if I have misled you :( #nflverse"
