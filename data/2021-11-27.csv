@@ -528,3 +528,48 @@ Data: #nflverse https://t.co/OMPV7o455y"
 "Tue Nov 23 23:19:00 +0000 2021","40782542","reinhurdler","1463285986046234625","After forcing seven turnovers with zero giveaways in their last three games (+32 total EPA on those seven plays), the Colts are now the team that has benefitted the most from turnover plays in 2021.
 
 Data: #nflverse https://t.co/bxzHZ8Y89O"
+"Fri Nov 19 14:00:00 +0000 2021","1205557554442575878","mrcaseb","1461695759250714629","Last night's TNF is the 6000th game in the nflfastR era.
+#nflverse"
+"Sun Nov 21 14:15:00 +0000 2021","1294368617635762180","sportfoliokings","1462424308186185733","NFL Post-Week 10 Bettor Misery Index: 
+
+RIP @RamsNFL bettors, who collectively lost the most money in back-to-back weeks 😭 
+
+Chiefs bettors got a bit of respite after a miserable season-to-date. Packers/Cowboys bettors continue to cash tickets (combined 17-2 ATS) 🤑 
+
+#nflverse https://t.co/weHn2lXnKU https://t.co/AoSHpdGApW"
+"Sun Nov 21 14:35:00 +0000 2021","1294368617635762180","sportfoliokings","1462429341363556358","NFL Week 11 line movements 📊🏈:
+
+The relentless Eagles ♥️continues, jumping 3pts since last week; 6.5pts since preseason
+
+Cam Newton in/Chase Young out. Panthers bid up another 2pts 📈
+
+Covid-y Big Ben drops Steelers 2.5pts 📉
+
+Justified repricings?
+
+#nflverse @4for4football https://t.co/l3O2EfvRV6"
+"Sun Nov 21 17:20:00 +0000 2021","1351762913195925505","AnalyticsLeo","1462470864952299522","Me: we should replace yac_epa for expected yac_epa for completions. This stat would better isolate QB production.
+The stat: Theodore Bridgewater MVP
+
+#nflverse https://t.co/uc9SrR1Q4d"
+"Sat Nov 27 11:06:39 +0000 2021","1365340156069306371","deepvaluebettor","1464551235810476034","if we evaluate user performance in lee sharpe's nfl prediction game the way we would for a traditional portfolio manager, we can more easily detect who is likely skilled and who is likely benefiting from outsized luck. 
+
+#nflverse https://t.co/JssVqIJDQU"
+"Wed Nov 24 18:37:28 +0000 2021","1370449271540043776","_pranavrajaram","1463577524517183498","Ahead of tomorrow's games, here are the NFL's Best Performers on Thanksgiving Day.
+🏈 No surprise to see Jason Witten on the list (16 games!)
+🏈 Tom Brady comes to play on Turkey Day
+🏈 Mark Sanchez obviously remains an NFL Thanksgiving icon
+
+Data: #nflverse https://t.co/OMPV7o455y"
+"Sat Nov 27 17:15:34 +0000 2021","1433130120945020929","YinzsideTheGame","1464644077677420555","AFC North QB Efficiency through Week 11 shows Ben Roethlisberger continuing to make strides towards the rest of the starting QB pack. #nflverse https://t.co/551sCjvPiC"
+"Tue Nov 23 20:22:42 +0000 2021","2836111214","LeeSharpeNFL","1463241620082417664","The #nflverse games data and https://t.co/sWcfd2gLrn have been updated to reflect these changes. https://t.co/w3mq0lQixi"
+"Wed Nov 24 22:20:18 +0000 2021","29360193","davisj2007","1463633601589874693","Welp, I am extremely mad at myself.  After running this week's simulations and seeing that - checks notes - the @steelers were estimated to be the 3rd best team in the nation, I knew something was amiss.  #nflverse https://t.co/2zq0HRlbTr"
+"Wed Nov 24 22:20:18 +0000 2021","29360193","davisj2007","1463633603515097095","So I went digging through my code, and low and behold, a single instance in which I called ""predict"" on a gamlss object, but used ""new_data"" instead of ""newdata"", meaning that the simulation was looping through training data predictions #nflverse"
+"Wed Nov 24 22:20:19 +0000 2021","29360193","davisj2007","1463633605079539715","This, of course, was not ideal, and while its issue was mitigated by the other parts of the algorithm, it obviously was causing incorrect outcomes, and therefore, poor estimates of strength and game-by-game predictions.  I am deeply sorry if I have misled you :( #nflverse"
+"Mon Nov 22 13:48:31 +0000 2021","3196394099","ak47twq","1462780031105572869","for today steelers game, i make a plot of points of each qtr for 1999-2020 reg season. from #nflverse https://t.co/7SOiym4Gro"
+"Fri Nov 19 17:07:28 +0000 2021","358575395","SamHoppen","1461742935402323968","Last week the Washington Football Team had one of the greatest game-clinching drives not just of the season, but of the last decade. They started the drive with a 76% win probability and ended it with a 99.3% win probability!
+
+#nflverse https://t.co/1HohLEAaaC"
+"Tue Nov 23 23:19:00 +0000 2021","40782542","reinhurdler","1463285986046234625","After forcing seven turnovers with zero giveaways in their last three games (+32 total EPA on those seven plays), the Colts are now the team that has benefitted the most from turnover plays in 2021.
+
+Data: #nflverse https://t.co/bxzHZ8Y89O"
