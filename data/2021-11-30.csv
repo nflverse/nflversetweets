@@ -67,3 +67,62 @@ Data: #nflverse https://t.co/bxzHZ8Y89O"
 "Sun Nov 28 02:59:15 +0000 2021","726939781507125248","BradCongelio","1464790966838177796","Based on this look at total DPI yards gained vs. total number of DPIs earned, I'm pretty sure Russell Wilson does the whole ""screw it, Lockett is out there somewhere"" when he is under pressure. 
 
 @gbellseattle @bcondotta #nflverse https://t.co/GVKcv3sZop"
+"Tue Nov 30 14:08:59 +0000 2021","1081617957439049729","ThePuntRunts","1465684285101330434","Puntpdate, week 12!
+
+🦵top of the list starting to take shape - could be quite the race for P1
+🦵Morstead is back baybee (he'll keep showing up with a Jets logo for a bit bc that's where the majority of his punts have been)
+
+#nflverse https://t.co/v332dbZPmb"
+"Mon Nov 29 16:06:59 +0000 2021","1205557554442575878","mrcaseb","1465351595110060042","12 weeks into the season, I have computed pythagorean expectations based on @fboutsiders adjusted pythagorean theorem and compared them to the actual wins of each team. The table is sorted by expected wins based on points scored and points allowed.
+Data: #nflverse https://t.co/ePlTmPDrgP"
+"Sun Nov 28 14:30:00 +0000 2021","1294368617635762180","sportfoliokings","1464964799872356361","Summary of NFL Week 12 price changes:
+
+Many bettors are eager to call a top on the Patriots after the spread v the Titans widened 4 points the last week. Maybe sentiment is a bit overheated, but that 4 point move isn't all Patriots-related 👀 #nflverse
+
+data: @4for4football https://t.co/0fkK7CAlED"
+"Mon Nov 29 23:07:59 +0000 2021","1294368617635762180","sportfoliokings","1465457542595764224","No mercy for Rams bettors in 2021
+
+#nflverse https://t.co/oxc01Sn01Z https://t.co/LBKsWsczSV"
+"Tue Nov 30 16:54:42 +0000 2021","1337945775914045442","throwthedamball","1465725991498694664","Is there any explanation for why MIN is so so bad when leading? It comes back to bite them every week and (aside from noise of a small sample?) I don't see an easy explanation for why this is the case. Any ideas?
+#nflverse https://t.co/CFb7SXYDS3"
+"Sat Nov 27 11:06:39 +0000 2021","1365340156069306371","deepvaluebettor","1464551235810476034","if we evaluate user performance in lee sharpe's nfl prediction game the way we would for a traditional portfolio manager, we can more easily detect who is likely skilled and who is likely benefiting from outsized luck. 
+
+#nflverse https://t.co/JssVqIJDQU"
+"Sun Nov 28 15:00:00 +0000 2021","1365340156069306371","deepvaluebettor","1464972350777081866","the circa survivor bloodbath in color 😭
+
+favorites' unprecedented early season success lulled entrants into a false sense of security before the underdog revenge tour caught fire the last three weeks 
+
+&lt; 1% of entrants remain #nflverse #rstats #CircaSportsMillion https://t.co/sHsCnZpDxw https://t.co/wgBUVLiNge"
+"Wed Nov 24 18:37:28 +0000 2021","1370449271540043776","_pranavrajaram","1463577524517183498","Ahead of tomorrow's games, here are the NFL's Best Performers on Thanksgiving Day.
+🏈 No surprise to see Jason Witten on the list (16 games!)
+🏈 Tom Brady comes to play on Turkey Day
+🏈 Mark Sanchez obviously remains an NFL Thanksgiving icon
+
+Data: #nflverse https://t.co/OMPV7o455y"
+"Sat Nov 27 19:19:21 +0000 2021","1415047596293378050","CDFBAnalysis","1464675226931900428","Some RB clustering going into week 12 to check out while watching ""The Game:""
+Cluster Labels:
+1) The replaceable's
+2) The bellcow backs
+3) The league's best rushers
+4) The pass-catching/committee backs
+5) The generally inefficient backs
+#nflverse https://t.co/z1f2ci1q3j"
+"Sat Nov 27 17:15:34 +0000 2021","1433130120945020929","YinzsideTheGame","1464644077677420555","AFC North QB Efficiency through Week 11 shows Ben Roethlisberger continuing to make strides towards the rest of the starting QB pack. #nflverse https://t.co/551sCjvPiC"
+"Sun Nov 28 16:48:03 +0000 2021","2271883289","Tucker_TnL","1464999540528984067","APP UPDATE: You can now compare individual quarterback seasons from 2006-2021 in a variety of relevant categories including EPA/play, CPOE, and DVOA––plus contextual factors such as air yards and PFF receiving/pass blocking grades.
+
+#nflverse
+https://t.co/p2eU4hD1mR https://t.co/g3w0BOD9jq"
+"Tue Nov 23 20:22:42 +0000 2021","2836111214","LeeSharpeNFL","1463241620082417664","The #nflverse games data and https://t.co/sWcfd2gLrn have been updated to reflect these changes. https://t.co/w3mq0lQixi"
+"Tue Nov 30 16:26:46 +0000 2021","2836111214","LeeSharpeNFL","1465718959852834818","https://t.co/1FeWUqqhUq and the #nflverse game data have been updated to reflect these changes. https://t.co/NOXJhlIWrB"
+"Wed Nov 24 22:20:18 +0000 2021","29360193","davisj2007","1463633601589874693","Welp, I am extremely mad at myself.  After running this week's simulations and seeing that - checks notes - the @steelers were estimated to be the 3rd best team in the nation, I knew something was amiss.  #nflverse https://t.co/2zq0HRlbTr"
+"Wed Nov 24 22:20:18 +0000 2021","29360193","davisj2007","1463633603515097095","So I went digging through my code, and low and behold, a single instance in which I called ""predict"" on a gamlss object, but used ""new_data"" instead of ""newdata"", meaning that the simulation was looping through training data predictions #nflverse"
+"Wed Nov 24 22:20:19 +0000 2021","29360193","davisj2007","1463633605079539715","This, of course, was not ideal, and while its issue was mitigated by the other parts of the algorithm, it obviously was causing incorrect outcomes, and therefore, poor estimates of strength and game-by-game predictions.  I am deeply sorry if I have misled you :( #nflverse"
+"Mon Nov 22 13:48:31 +0000 2021","3196394099","ak47twq","1462780031105572869","for today steelers game, i make a plot of points of each qtr for 1999-2020 reg season. from #nflverse https://t.co/7SOiym4Gro"
+"Tue Nov 23 23:19:00 +0000 2021","40782542","reinhurdler","1463285986046234625","After forcing seven turnovers with zero giveaways in their last three games (+32 total EPA on those seven plays), the Colts are now the team that has benefitted the most from turnover plays in 2021.
+
+Data: #nflverse https://t.co/bxzHZ8Y89O"
+"Mon Nov 29 03:52:06 +0000 2021","57426207","jorgetinajeroe","1465166654242009096","Es y no es recepción a la vez. Todo depende del observador
+#NFLverse"
+"Sun Nov 28 02:59:15 +0000 2021","726939781507125248","BradCongelio","1464790966838177796","Based on this look at total DPI yards gained vs. total number of DPIs earned, I'm pretty sure Russell Wilson does the whole ""screw it, Lockett is out there somewhere"" when he is under pressure. 
+
+@gbellseattle @bcondotta #nflverse https://t.co/GVKcv3sZop"
