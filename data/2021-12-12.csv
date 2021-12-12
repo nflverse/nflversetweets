@@ -458,3 +458,59 @@ Kyler Murray and, yes, Garder Minshew!
 #RedSea  #FlyEaglesFly 
 
 Data: #nflverse https://t.co/5AnF85xwht"
+"Fri Dec 10 22:09:21 +0000 2021","1151956481887100936","JHamptAnalytics","1469429051182002181","I was then able to get the total QB rolling ELO for each Super Bowl and am very happy to report my first instinct was correct! Brees-Manning is #1 all time followed by Montana-Marino. If anyone wants to see this for any other moving # average (or just total ELO), lmk #nflverse https://t.co/8JS7m8tVPI"
+"Tue Dec 07 21:09:05 +0000 2021","1205557554442575878","mrcaseb","1468326723183857671","Update Week 13
+Data: #nflverse
+#rstats https://t.co/PKn6s0Bxlr"
+"Tue Dec 07 20:45:25 +0000 2021","120883359","simonhaake","1468320765523243009","Wanted to throw together a shiny app to keep up with the pass depth each week. Will try to make sure it stays working! 
+https://t.co/ifP3u02IN0
+#nflfastr #rstats #nflverse"
+"Wed Dec 08 22:21:10 +0000 2021","120883359","simonhaake","1468707251951222784","Adding some more passing numbers to the shiny. With all the Herbert/Burrow chatter wanted to see how they were doing on 3rd down. Herbert looks to be a bit more aggressive while Burrow slightly ahead in converting 1st downs.. (min 90att) #nflverse #nflfastR #Rstats https://t.co/8qj7BlRaZF"
+"Sun Dec 12 17:10:27 +0000 2021","1209594095422902272","Mike_Lounsberry","1470078606688890889","Quick thread on my Big Data Bowl submission:
+
+The one thing that stuck out to me when I was working on my punting project at the beginning of the season was how good punters are at getting their punts to check up inside of the 10 yard line.
+
+#nflverse"
+"Thu Dec 09 02:49:20 +0000 2021","1333640422435024897","patpAItriot","1468774738319265796","How is Mac Jones stacking EPA-wise against his predecessors? #nflverse #ggplot2 https://t.co/Vy02bKTYrT"
+"Tue Dec 07 23:29:18 +0000 2021","1337945775914045442","throwthedamball","1468362009053966338","Yes, the Chiefs have won a bunch recently, but looking past W/L record it has to be concerning that 4 of Mahomes's 5 worst career EPA games have come recently. Could he turn it around? Ofc. But as a Mahomes Stan(and ik I'm not alone) maybe it is time to adjust priors🤷‍♂️ 
+#nflverse https://t.co/MJMpowmsQQ"
+"Tue Dec 07 15:18:03 +0000 2021","1351762913195925505","AnalyticsLeo","1468238383168339978","@nflfastR has an xYAC model with which we can calculate Air EPA + xYAC EPA. I do that for completions and leave incompletions' EPA untouched. Interceptions are also untouched (no xYAC for the return). This is the result:
+
+#nflverse https://t.co/rRm1re81xw https://t.co/9n24l6XV1X"
+"Thu Dec 09 22:14:18 +0000 2021","1365340156069306371","deepvaluebettor","1469067911591514117","the patriots have won seven straight, covering in all of them by more than TD 🏈
+
+even more impressive is that they continue to cover by margin as the hurdle for doing so has gotten priced higher and higher week-over-week relative to both preseason and lookahead lines 
+
+#nflverse https://t.co/yT8l5s4igY"
+"Sat Dec 04 17:18:19 +0000 2021","1370449271540043776","_pranavrajaram","1467181483827806213","A preview infographic for the huge Pats-Bills showdown this week:
+🏈 #BillsMafia have been better on offense and defense, but Pats are on a hot streak
+🏈 Mac-Allen QB Battle will define the game
+🏈 AFC East lead at stake
+
+Data: #nflverse | Inspiration: @bestballstats https://t.co/AOKMxSeL9c"
+"Wed Dec 08 12:40:05 +0000 2021","1431771300326830081","bearemy3012","1468561014447013889","真相としては先月 #nflverse ネタの時にフォロー受けてフォロバしたがすぐ外されました
+フォロー継続してましたが試合中のネタかマジかわからないanalyticsTweetがTL上出るのがノイズだったので私も外しました
+まだ私に対する批判Tweetの方が見てられます、ちなみに最近再フォローされたのも知ってます"
+"Mon Dec 06 18:49:14 +0000 2021","261281820","call_my_psych","1467929142238883843","the bills and patriots are leading the league in how much garbage time they play in this year #nflverse https://t.co/kPp93rbWZ5"
+"Mon Dec 06 18:56:06 +0000 2021","261281820","call_my_psych","1467930867167334400","#nflverse https://t.co/fjBS1px1Uq"
+"Sat Dec 11 19:17:35 +0000 2021","29360193","davisj2007","1469748215478206467","Another crazy week so I didn't get a chance to post this, though I promise I ran the model prior to Thursday's game (I also didn't update the title, this is after week 13). What stands out to you? #nflverse https://t.co/2zq0HRlbTr https://t.co/KlnLR9GaKP"
+"Sat Dec 11 19:17:37 +0000 2021","29360193","davisj2007","1469748222209974274","Week 13 was another positive week for model predictions - here is week 14!  I'm not proud of the @Vikings prediction for Thursday, because both teams deserved to lose #nflverse https://t.co/cUQTerHiPP"
+"Tue Dec 07 04:24:02 +0000 2021","358575395","SamHoppen","1468073793562230786","With only three pass attempts, the Patriots recorded a -56.7% pass rate over expectation, the lowest-recorded PROE in the @nflfastR era (since 1999). The previous low was -44.9%, set last year in Week 12 by the Broncos when they didn't have any eligible QBs. #nflverse"
+"Sat Dec 04 14:50:00 +0000 2021","40782542","reinhurdler","1467144158288637958","New graph! I thought I might try to visualize how many snaps each team's preseason offensive starters (+2 more skill players) have played in 2021
+
+Week 1 is the left-most column and the most recent game is on the far right. Darker tiles = more snaps. X = inactive
+
+Data: #nflverse https://t.co/XSNtxNRTuU"
+"Sat Dec 11 15:24:00 +0000 2021","40782542","reinhurdler","1469689429702807555","The Steelers have received the most benefit from penalties on a net basis this season, while the Browns have been hurt the most from penalties.
+
+Data: #nflverse https://t.co/5g1ac6gKyQ"
+"Sat Dec 11 02:12:57 +0000 2021","726939781507125248","BradCongelio","1469490358719598592","Here's a look at QBs' completed air yards per attempt (dark green) vs. their intended air yards per attempt (light green). 
+
+Garoppolo &amp; Ryan have the smallest spreads between the two while Goff, Hurts, Mahomes, and Rodgers are all vying for the largest spread. 
+
+data: #nflverse https://t.co/IGtlhcsF7d"
+"Mon Dec 06 18:49:05 +0000 2021","935526760023777280","BrunoHMioto","1467929103923826693","This sunday we had two QBs making the best game of their career by EPA/play!
+Kyler Murray and, yes, Garder Minshew!
+#RedSea  #FlyEaglesFly 
+
+Data: #nflverse https://t.co/5AnF85xwht"
