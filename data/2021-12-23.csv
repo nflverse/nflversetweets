@@ -1,0 +1,5 @@
+"created_at","user_id","screen_name","status_id","full_text"
+"Thu Dec 23 19:32:16 +0000 2021","1205557554442575878","mrcaseb","1474100564644569089","I have updated the #nflverse package {nflplotR} today with a more general applicable image geom that can load images from urls or local paths, apply transparency and provides robust aspect ratio. 
+The example also shows how to use this in annotations.
+
+https://t.co/ehGFNuQbpy https://t.co/sRKCmQ7E2K"
