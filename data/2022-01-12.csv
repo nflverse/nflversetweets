@@ -1,2 +1,7 @@
 "created_at","user_id","screen_name","status_id","full_text"
 "Wed Jan 12 06:40:32 +0000 2022","1156272710361735168","JesseD_Stats","1481154107083837444","Finally getting to play around with #Nflverse data in R. For whatever it's worth, here is how well (epa/play)  QBs performed this year when they suffered a hit, and when they did not. Little thanks to @tejfbanalytics for guidance on the graphic creation! https://t.co/aZwLbgri4T"
+"Wed Jan 12 17:43:35 +0000 2022","40782542","reinhurdler","1481320968731742210","All three AFC playoff games this weekend are expected to be played in cold weather.
+
+Of the six QBs expected to start in those games, Derek Carr has fared the worst in the cold with a career EPA/play of -0.09 in games played with a temperature 50° or cooler.
+
+Data: #nflverse https://t.co/HUt0Uba675"
