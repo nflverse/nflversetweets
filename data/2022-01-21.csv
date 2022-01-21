@@ -1,2 +1,3 @@
 "created_at","user_id","screen_name","status_id","full_text"
 "Fri Jan 21 20:00:37 +0000 2022","1323466365097906181","TomChandlerNFL","1484616946834456586","Overall, I found that there is not a clear relationship between how well a defense performs and where that same team starts their drive. #nflverse"
+"Fri Jan 21 22:48:17 +0000 2022","1323466365097906181","TomChandlerNFL","1484659141704572936","Got some good feedback in the #nflverse discord, so I looked into this a little bit more. When using the average starting position for an offense after their defense causes a turnover or forces a punt, there seemed to be more of a correlation (R-squared = 0.116) https://t.co/fu0a2HmVz5 https://t.co/Oy7kIVdFIC"
