@@ -1,0 +1,8 @@
+"created_at","user_id","screen_name","status_id","full_text"
+"Fri Feb 11 18:00:03 +0000 2022","1253008519919546370","nflfastR","1492196747975663618","** ❗ NEW from #nflverse ❗ **
+
+Introducing the new R package {nflverse} that installs, loads, and updates all nflverse packages with a single call.  
+Get it from CRAN with 
+`install.packages(""nflverse"")`
+or visit the package website
+https://t.co/Y31urBXACK https://t.co/xP7rDqjegQ"
