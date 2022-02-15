@@ -1,0 +1,5 @@
+"created_at","user_id","screen_name","status_id","full_text"
+"Tue Feb 15 15:35:05 +0000 2022","1205557554442575878","mrcaseb","1493609820871659524","The nextgenstats loader in nflreadr was missing the Super Bowl because I am an idiot. This is fixed now. 
+Running `nflreadr::.clear_cache()` followed by a call to `nflreadr::load_nextgen_stats()` will load Super Bowl data now.
+#nflverse
+https://t.co/35o9cXXeNl"
