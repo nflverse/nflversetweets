@@ -4,3 +4,6 @@
 SYLOE is a stat used to evaluate punting performance more accurately than yards/attempt currently does. It looks at the field position that the offense starts from following a punt and assigns the yardage over/under expected to the punter. 1/4
 
 #nflverse https://t.co/I2BIcMTFSj"
+"Fri Mar 18 17:21:51 +0000 2022","2271883289","Tucker_TnL","1504870710904246278","Not sure if this will help anyone, but here's a quick-and-dirty way to get a list of every unique player's gsis id, name, and first team using #nflverse data. I find it helpful for labeling/adding colors to plots.
+
+(Also, switch filter to teamnum == max(teamnum) for last team) https://t.co/cwlabe3g4W"
