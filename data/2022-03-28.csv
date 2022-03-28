@@ -98,3 +98,14 @@ We recommend all #rstats users update to nflreadr 1.2.0+ which is now available 
 - @cboettig for his work on the {piggyback} package that makes working with Releases so darn easy
 - @mrcaseb for his support and feedback 
 - the #nflverse community for being fantastic and a huge inspiration"
+"Wed Mar 23 21:36:47 +0000 2022","1205557554442575878","mrcaseb","1506746807644266505","In the #nflverse discord (https://t.co/Z8ISpBbnHO)  someone posted this very encouraging message.
+This is a great community! https://t.co/P68lkxQM43"
+"Mon Mar 21 13:59:15 +0000 2022","839942645883551744","_TanHo","1505906890278113285","Important #nflverse updates: we've reorganized the data automation to push into releases of a single repo (nflverse-data), and will deprecate (ie stop updating) the previous repos. 
+
+We recommend all #rstats users update to nflreadr 1.2.0+ which is now available on ✨CRAN ✨ https://t.co/fcPEVswbMr"
+"Mon Mar 21 13:59:18 +0000 2022","839942645883551744","_TanHo","1505906903632822272","Huge thank yous to:
+
+- GitHub Releases for being an awesome resource
+- @cboettig for his work on the {piggyback} package that makes working with Releases so darn easy
+- @mrcaseb for his support and feedback 
+- the #nflverse community for being fantastic and a huge inspiration"
