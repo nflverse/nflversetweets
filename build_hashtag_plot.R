@@ -43,7 +43,7 @@ all_days <- data.frame(created_at = lubridate::as_date(start:stop))
 last_week <- nflversetweets |>
   dplyr::filter(!is.na(created_at)) |>
   dplyr::mutate(
-    created_at = lubridate::parse_date_time(created_at, "abdHMSzY")
+    created_at = lubridate::parse_date_time(created_at, c("abdHMSzY", "YmdHMS"))
   )
 
 # Try to catch failed date parsing because we don't need a plot that shows
