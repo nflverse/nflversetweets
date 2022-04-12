@@ -5,23 +5,12 @@ suppressPackageStartupMessages({
   library(showtext)
 })
 options(warn = 1)
+# Have to set locale for time stamp parsing
+Sys.setlocale("LC_TIME", "C")
 
 cli::cli_alert_info("Manage Fonts...")
 sysfonts::font_add_google("Roboto Condensed")
 showtext::showtext_auto()
-# extrafont::loadfonts()
-# systemfonts::register_font(
-#   "Roboto Condensed",
-#   plain = system.file("fonts", "roboto-condensed",
-#                       "RobotoCondensed-Regular.ttf",
-#                       package="hrbrthemes"),
-#   bold = system.file("fonts", "roboto-condensed",
-#                      "RobotoCondensed-bold.ttf",
-#                      package="hrbrthemes")
-#   )
-# extrafont::font_import(system.file("fonts", "roboto-condensed", package="hrbrthemes"), prompt=FALSE)
-# print(systemfonts::match_font("Roboto"))
-# print(systemfonts::system_fonts() |> tail(20))
 
 cli::cli_alert_info("Setup Bot...")
 api_key <- Sys.getenv("TWITTERAPIKEY")
@@ -38,10 +27,12 @@ bot <- rtweet::rtweet_bot(
 rtweet::auth_as(bot)
 
 cli::cli_alert_info("Load and Prepare Data...")
-nflversetweets <- rtweet::search_tweets("#nflverse",
-                                        n = 1000,
-                                        include_rts = FALSE,
-                                        retryonratelimit = TRUE)
+nflversetweets <- rtweet::search_tweets(
+  "#nflverse",
+  n = 1000,
+  include_rts = FALSE,
+  retryonratelimit = TRUE
+)
 
 # last Monday
 start <- lubridate::floor_date(lubridate::today("America/New_York") - 1, "week", 1)
@@ -52,8 +43,7 @@ all_days <- data.frame(created_at = lubridate::as_date(start:stop))
 last_week <- nflversetweets |>
   dplyr::filter(!is.na(created_at)) |>
   dplyr::mutate(
-    created_at = glue::glue("{substr(created_at, nchar(created_at)-4, nchar(created_at))}-{substr(created_at, 5,7)}-{substr(created_at, 9,10)}"),
-    created_at = lubridate::as_date(created_at)
+    created_at = lubridate::parse_date_time(created_at, "abdHMSzY")
   ) |>
   dplyr::filter(created_at < stop) |>
   dplyr::filter(created_at > start) |>
@@ -77,9 +67,6 @@ plot <- last_week |>
   hrbrthemes::theme_modern_rc(
     plot_margin = ggplot2::margin(10, 10, 10, 10),
     grid = "Y"
-    # base_family = "",
-    # subtitle_family = "",
-    # caption_family = ""
   ) +
   ggplot2::theme(
     axis.title.x = ggplot2::element_blank(),
