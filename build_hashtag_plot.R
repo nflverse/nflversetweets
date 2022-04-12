@@ -34,10 +34,10 @@ nflversetweets <- rtweet::search_tweets(
   retryonratelimit = TRUE
 )
 
-# last Monday
-start <- lubridate::floor_date(lubridate::today("America/New_York") - 1, "week", 1)
 # latest Sunday
-stop <-  lubridate::floor_date(lubridate::today("America/New_York"), "week", 7)
+stop <- lubridate::today("America/New_York") - lubridate::wday(lubridate::today("America/New_York")) + 1
+# last Monday
+start <- lubridate::floor_date(stop, "week", 1)
 all_days <- data.frame(created_at = lubridate::as_date(start:stop))
 
 last_week <- nflversetweets |>
