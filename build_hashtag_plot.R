@@ -43,13 +43,13 @@ all_days <- data.frame(created_at = lubridate::as_date(start:stop))
 last_week <- nflversetweets |>
   dplyr::filter(!is.na(created_at)) |>
   dplyr::mutate(
-    created_at = lubridate::parse_date_time(created_at, "abdHMSY")
+    created_at = lubridate::parse_date_time(created_at, "abdHMSzY")
   )
 
 # Try to catch failed date parsing because we don't need a plot that shows
 # all zeros
 if(all(is.na(last_week$created_at))){
-  cli::cli_abort("The date parser failed. Please check it.")
+  cli::cli_abort("The date parser failed. Please check it. Here are dates {.val {nflversetweets$created_at}}")
 } else {
   last_week |>
     dplyr::filter(created_at < stop) |>
