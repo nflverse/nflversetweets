@@ -51,7 +51,7 @@ last_week <- nflversetweets |>
 if(all(is.na(last_week$created_at))){
   cli::cli_abort("The date parser failed. Please check it. Here are dates {.val {nflversetweets$created_at}}")
 } else {
-  last_week |>
+  last_week <- last_week |>
     dplyr::filter(created_at < stop) |>
     dplyr::filter(created_at > start) |>
     dplyr::bind_rows(all_days) |>
