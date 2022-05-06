@@ -1,0 +1,4 @@
+"created_at","user_id","screen_name","status_id","full_text"
+"Fri May 06 14:25:32 +0000 2022","1205557554442575878","mrcaseb","1522583345963618305","We've been busy in the #nflverse lately, adding frequently requested data. The latest version of nflreadr can now load player contracts via OverTheCap and links them to draft information.
+https://t.co/BzclpedPuW
+install.packages(""nflreadr"", repos = ""https://t.co/BrHHmLVG0k"") https://t.co/VNuUDjsrxM"
