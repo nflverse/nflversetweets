@@ -979,3 +979,73 @@ This release caps a lot of the hard work we've been doing this offseason - it's 
 #rstats https://t.co/EcLk9gmh4e"
 "Mon Aug 08 20:13:51 +0000 2022","839942645883551744","_TanHo","1556735463444168704","Loving all of the fun things that people are already doing with the latest #nflverse data! https://t.co/N0V21FUUsl"
 "Sat Aug 06 19:54:11 +0000 2022","935526760023777280","BrunoHMioto","1556005735846354946","@tanya_shapiro Wow, I just love nflfastR and dataviz! Also, remember to use #nflverse !"
+"Fri Aug 05 17:53:03 +0000 2022","1055998106519658496","OliverJCochrane","1555612866169999361","Wrote about his surprising season and the whole CB room from ‘21 back in February📈📈📈 #nflverse #Jets https://t.co/0I7fScu7WT"
+"Tue Aug 09 00:33:56 +0000 2022","1139018976053420032","DPRees8","1556800914685431808","In the spirit of JK's return: 
+The avg number of defenders in the box when Ravens were in 11 personnel decreased from 6.08 in 2019 (2nd highest) to 5.74 in 2021 (2nd lowest).
+Going to be nice to have rushing threat back!
+#NFLreadR #nflverse Thanks @_TanHo @mrcaseb"
+"Mon Aug 08 17:00:01 +0000 2022","1253008519919546370","nflfastR","1556686681000103939","📢📢 UPDATE RELEASED ❗
+nflfastR #rstats package 📦 
+v4.4.0 is now live on CRAN. It's a minor update including
+-- a new function that computes standings including tiebreakers,
+-- updates to team colors and Washington Commanders, and
+-- bugfixes.
+https://t.co/pYQKp12Ojb 
+#nflverse https://t.co/tWvHEQgP16"
+"Wed Aug 10 00:45:33 +0000 2022","1302811361676722178","TripleRSports","1557166223699259392","I've been working with the awesome new data available through the #nflverse packages. I was curious about team formations used in different situations. Naturally, I started with the Seahawks. The increase in 1 RB, 2 TE formations on 1st and 10 in the last 2 seasons is interesting https://t.co/ql6WyDCnov"
+"Wed Aug 03 14:30:00 +0000 2022","1365340156069306371","deepvaluebettor","1554836988708151297","the spread between NFL win total futures and realized wins has been trending lower for years, but hit a 20-year low in 2021 with a paltry standard deviation of just 1.8 games and by far the tightest range of outcomes in the record
+
+but alt wins still look playable 🤑 #nflverse https://t.co/vDsceBQj24"
+"Tue Aug 09 15:33:11 +0000 2022","1365340156069306371","deepvaluebettor","1557027218114609152","the #GoBucs  didn't get better...and were already showing cracks:
+
+-fell behind in 11 games, by a TD+ in 7 games 
+
+-lost 6 games using a time-weighted average margin (had time-weighted win prob of 50% or less in 7 games)
+
+-scoring margin over exp was just 5.5 pts
+
+🤮
+
+#nflverse https://t.co/Wx3aUfakc1 https://t.co/bvxIqbTwv6"
+"Tue Aug 09 12:20:27 +0000 2022","1551486635367288832","cover2figuRes","1556978715288309761","Tried arc diagrams for the first time as a way to visualise 𝙖𝙫𝙚𝙧𝙖𝙜𝙚 𝙙𝙚𝙥𝙩𝙝 𝙤𝙛 𝙩𝙖𝙧𝙜𝙚𝙩𝙨 for #NFL QBs.
+
+Neat way to show the deep threat WRs based on arc width/colour.
+
+Some more QBs 👇, but let me know if you'd like me to post others.
+
+#nflverse
+
+Stafford:
+
+1/ https://t.co/hGQxxjaiX7"
+"Mon Aug 08 16:17:47 +0000 2022","2747635901","JakobEschler","1556676051715166211","holy. shit - wie awesome!!! #nflverse https://t.co/uCT2XsH4Vx"
+"Mon Aug 08 21:02:23 +0000 2022","2972612261","k_camden","1556747676942827523","@mrcaseb Thank you! Trying to bring some of the #nflverse ideas to baseball."
+"Mon Aug 08 15:47:41 +0000 2022","3067061292","josephjefe","1556668477426962433","Wake up babe! New #nflverse datasets just dropped! https://t.co/cxvwbbKWv7"
+"Tue Aug 09 02:05:39 +0000 2022","3120344595","cincysam6","1556823996179644416","I think I finally need to spend some time diving into Bengals analysis this year thanks to the incredible work of @_TanHo @mrcaseb @LeeSharpeNFL @benbbaldwin and the rest of the nflreadr team.  Just started playing with the new features! #nflverse https://t.co/9r7lcohn4C"
+"Wed Aug 10 01:50:33 +0000 2022","3120344595","cincysam6","1557182584345468929","Every day until the season starts I am going to challenge myself to make something with the new nflreadr data related to the Bengals. This chart uses participation data to evaluate player usage week by week.  #nflverse #CincinnatiBengals #WhoDey https://t.co/cXhRU1x3or"
+"Wed Aug 10 15:15:37 +0000 2022","3120344595","cincysam6","1557385185146068993","Today's graph is a quick look back at offensive formation broken out by down. Would be fun to dig into this deeper to look at situational breakdowns and personnel to get a better idea of their tendencies in certain situations #nflverse #WhoDey #Bengals https://t.co/Jig7RWqYu1"
+"Wed Aug 03 13:28:49 +0000 2022","350122903","TAlbTree","1554821594106953728","Made my first very basic shiny app 😃 
+
+Plots targets per pass snap vs yards per pass snap
+
+AKA the open source version of Targets and Yards per Route Run
+
+#nflverse 
+
+https://t.co/iDLE47PBBz https://t.co/v4e07NIqde"
+"Thu Aug 04 21:26:34 +0000 2022","451578920","andreacasiragh1","1555304208315949062","Strength of Schedule using the average EPA from last season. Obviously the teams have changed their team. The Rams will have to face the strongest defenses. Good position for Chargers and Bills. Poor Falcons.
+
+#nflverse https://t.co/1ZvzXXl85J"
+"Mon Aug 08 21:07:04 +0000 2022","451578920","andreacasiragh1","1556748853323481091","Rams used his offense on average about 80% in 11 personnel. Interesting to see how the use changes week over week.
+Two of the lowest uses were against the Cardinals.
+
+#nflverse @_TanHo @John_B_Edwards really appreciate the huge work https://t.co/lbI75isDvv"
+"Wed Aug 10 16:16:41 +0000 2022","451578920","andreacasiragh1","1557400553352839171","When the fans and media say that Donald is like having two players on the field... and then McVay listens us and the defense is on the field with only 10 players. Rams played 3 times with only 10 players in 2021 on pass/rush plays (most NFL) and lost a total epa of 8.55 #nflverse https://t.co/op6bHBPAFG"
+"Sun Aug 07 21:31:38 +0000 2022","839942645883551744","_TanHo","1556392646863736833","#nflverse approved. ® https://t.co/atYCNovPG8"
+"Mon Aug 08 14:46:07 +0000 2022","839942645883551744","_TanHo","1556652987044470784","The #nflverse team is super stoked to share that nflreadr 1.3.0 is now available on CRAN 🎉 
+
+This release caps a lot of the hard work we've been doing this offseason - it's packed with new data (participation! contracts! officials!) and some awesome new utilities🔨 
+
+#rstats https://t.co/EcLk9gmh4e"
+"Mon Aug 08 20:13:51 +0000 2022","839942645883551744","_TanHo","1556735463444168704","Loving all of the fun things that people are already doing with the latest #nflverse data! https://t.co/N0V21FUUsl"
+"Sat Aug 06 19:54:11 +0000 2022","935526760023777280","BrunoHMioto","1556005735846354946","@tanya_shapiro Wow, I just love nflfastR and dataviz! Also, remember to use #nflverse !"
