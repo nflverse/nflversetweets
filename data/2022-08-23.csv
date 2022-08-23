@@ -1,0 +1,5 @@
+"created_at","user_id","screen_name","status_id","full_text"
+"Tue Aug 23 05:56:25 +0000 2022","1019741267335499778","Ccaprini21","1561955501587447808","Simple yards/play analysis of 2021 NFL teams. (Learning multilevel models: yards_gained ~ (1|defteam) + (1|posteam) in lme4.)
+(Scaled) Estimates based on all 2021 ""normal"" plays in regular season (removing penalties/STs/goal to go).
+@DavidMTodd @WilliamsonNFL
+#nflverse #RStats https://t.co/JLkV7n9sCb"
