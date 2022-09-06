@@ -1,0 +1,2 @@
+"created_at","user_id","screen_name","status_id","full_text"
+"Tue Sep 06 18:06:47 +0000 2022","1205557554442575878","mrcaseb","1567212733187096577","Last year I developed the #nflverse {nflplotR} package and learned a lot about ggplot2 internals. While working on it I realized I could create robust geoms and theme elements that have nothing to do with nfl football. These fit better in a new, separate package. That’s ggpath."
