@@ -1,2 +1,3 @@
 "created_at","user_id","screen_name","status_id","full_text"
 "Fri Sep 09 11:05:57 +0000 2022","839942645883551744","_TanHo","1568193989676777472","@CoopsFB working on it today, no eta #nflverse https://t.co/wEFuSw24uT"
+"Fri Sep 09 13:03:38 +0000 2022","839942645883551744","_TanHo","1568223607347707906","day one patching of #nflverse is in progress - load_pbp and load_player_stats are up and running now in all data repos, participation not there yet but ongoing. https://t.co/Z2Aof8Uo6e"
