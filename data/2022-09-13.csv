@@ -1,0 +1,27 @@
+"created_at","user_id","screen_name","status_id","full_text"
+"Tue Sep 06 18:06:47 +0000 2022","1205557554442575878","mrcaseb","1567212733187096577","Last year I developed the #nflverse {nflplotR} package and learned a lot about ggplot2 internals. While working on it I realized I could create robust geoms and theme elements that have nothing to do with nfl football. These fit better in a new, separate package. That’s ggpath."
+"Mon Sep 12 22:53:49 +0000 2022","1433130120945020929","YinzsideTheGame","1569459294436745217","Through one week, #AFCNorth QBs struggled with accuracy (see negative values for CPOE on x-axis). Lamar, however, notably stood out with EPA per play due to positive plays both through the air and value added on the ground. #Steelers #nflverse https://t.co/3eR5GAdOqR"
+"Thu Sep 08 03:03:00 +0000 2022","29360193","davisj2007","1567710064055664646","The @nfl returns tomorrow - and so it's time to introduce V3 of my forecasting model to the world!  I used @nflseedR to help me create 10k universes to explore the 2022 season.  Here are the average outcomes across all of the simulations.  
+
+And a 🧵 on the model #nflverse https://t.co/ThmHPB064X"
+"Thu Sep 08 03:03:10 +0000 2022","29360193","davisj2007","1567710107391107072","And if you have any questions, comments, or desire to see my code (all in #rstats), let me know!  Thanks again to @LeeSharpeNFL @nflseedR and the entire #nflverse.  And let's go @steelers!"
+"Sat Sep 10 13:57:35 +0000 2022","3067061292","josephjefe","1568599571374424069","The Rams, as has been reported already, only ever ran out 11 personnel (1 RB, 1 TE, 3 WR) on Thursday night, while the Bills put out 5 formations, though only two on a consistent basis. See follow up tweet for detailed explanation of formations. 
+
+#nflverse #rstats #ggplot2 https://t.co/YERuHSsiHJ"
+"Sat Sep 10 13:57:37 +0000 2022","3067061292","josephjefe","1568599579653984256","Here's the defensive breakdown. These numbers are listed in LB, DL, DB order, so a 2-4-5 formation would be 2 LB, 4, DL, and 5 DB's on the field. For as little variation the Rams had on offense, they showed a ton more on defense. 
+
+#nflverse #rstats #ggplot2 https://t.co/hkpVtohcSq"
+"Mon Sep 12 15:21:10 +0000 2022","3067061292","josephjefe","1569345379954733057","All my Chiefs fans, got something new for you today! Here's a snap count breakdown based on personnel formations. Some interesting notes: Gray is first TE when its 2 TE sets. Hardman is the WR when there's only 1 WR on the field. 
+
+#nflverse #rstats https://t.co/5s0ZHL2ROU"
+"Mon Sep 12 22:21:00 +0000 2022","40782542","reinhardNFL","1569451034338009088","In the span of one hour yesterday, there were *ten* game-winning or game-tying kicks attempted. This is the most kicks of this kind in a one-hour span in at least 20 years.
+
+5 makes, 5 misses
+
+Data: #nflverse https://t.co/P6sKUZNKn7"
+"Fri Sep 09 11:05:57 +0000 2022","839942645883551744","_TanHo","1568193989676777472","@CoopsFB working on it today, no eta #nflverse https://t.co/wEFuSw24uT"
+"Fri Sep 09 13:03:38 +0000 2022","839942645883551744","_TanHo","1568223607347707906","day one patching of #nflverse is in progress - load_pbp and load_player_stats are up and running now in all data repos, participation not there yet but ongoing. https://t.co/Z2Aof8Uo6e"
+"Thu Sep 08 14:51:26 +0000 2022","935526760023777280","BrunoHMioto","1567888347787321346","NFL 2022 season starts today!
+Let's see the draft round of the 53-man roster for each NFL team!
+
+#nflverse #RStats #ggplot2 https://t.co/gmbHqpxGQl"
