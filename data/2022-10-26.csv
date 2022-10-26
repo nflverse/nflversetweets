@@ -374,3 +374,94 @@ As always, I welcome questions and comments
 
 #nflverse https://t.co/yyFtkO2wNJ"
 "Mon Oct 24 16:40:40 +0000 2022","922994172235276288","BenWieland","1584585677995245571","NFL division records excluding divisional games through seven weeks. Eagles at 6-0 somehow can't get any breathing room in the NFC East, who have won 84% of their non-divisional matchups so far. NFC East and AFC East beating up on the rest of the league #nflverse https://t.co/yzju6elgWX"
+"Wed Oct 19 03:33:04 +0000 2022","1019741267335499778","Ccaprini21","1582575533938085889","#nflverse
+Do NFL win probability (WP) streams move too much (with respect to Bayesian updating)?
+I applied tests put forward in a 2020 Augenblick and Rabin paper to @nflfastR's vegas-informed WP model. By their tests, on average, no.
+https://t.co/xQ1sHGqC8z
+@benbbaldwin @Stat_Ron"
+"Tue Oct 18 18:03:16 +0000 2022","1055998106519658496","OliverJCochrane","1582432138892562432","#NFL Week 6 EPA Rankings for Offense. #Jets rushing attack now up to fifth👀 
+
+#nflverse https://t.co/an52ctSkNr"
+"Sun Oct 23 19:11:51 +0000 2022","1055998106519658496","OliverJCochrane","1584261336451543040","Wow, look at the jump in pass EPA/play when you only include Zach Wilson's starts this year😧 #Jets #nflverse https://t.co/t28Ljgqp7b https://t.co/PaFRzoSZpk"
+"Mon Oct 24 14:30:36 +0000 2022","1055998106519658496","OliverJCochrane","1584552946028941314","Now, after 7 weeks, the #Jets rank counting only ZW starts.
+
+Zach Wilson takes this offense from bad with Flacco to middle of the pack (or better if he improves).
+
+#nflverse https://t.co/ypMhdR4uQN"
+"Tue Oct 25 00:14:04 +0000 2022","1103787522084257793","Doug_Analytics","1584699779010859009","The #Giants rank at the top of the league in 10+ yard runs, but at the bottom of the league in 15+ yard passes
+
+#NFLVerse https://t.co/kOC5KrmvCf"
+"Wed Oct 26 13:51:49 +0000 2022","1139018976053420032","DPRees8","1585267961496887298","#nflverse https://t.co/wCK2COyICn"
+"Fri Oct 21 12:20:22 +0000 2022","1337945775914045442","throwthedamball","1583433007108853760","Inpredict is a valuable resource for determining market signal, but it should not be the exclusive source. Courtesy of @deepvaluebettor's elite dataviz, here is a more holistic view, through 6 weeks, of where the broader market stands on each team. 
+#nflverse https://t.co/LPH6Z7NzYg"
+"Fri Oct 21 12:51:00 +0000 2022","1337945775914045442","throwthedamball","1583440716100952064","Updated Drive Quality on scripted plays vs non scripted through week 6. Can't make up this SF,LAR, GB cluster. 
+#nflverse https://t.co/ReQ56TPEZ5"
+"Tue Oct 25 18:26:49 +0000 2022","1433130120945020929","YinzsideTheGame","1584974778427125760","#Steelers marks in Week 7 in terms of YAC and EPA. 
+
+Data indicating that George Pickens does not have a lot of separation but certainly generates value when ball is in his hands. Similar to Freiermuth.
+
+#nflverse https://t.co/m08b8RFJnE"
+"Tue Oct 18 12:21:31 +0000 2022","1551486635367288832","cover2figuRes","1582346132381802496","Redoing this viz for #NFL QBs given we have a decent sample size of data to work with now.
+
+We can see how QBs are tracking based on their cumulative EPA through the first six weeks.
+
+Unfamiliar territory for one QB on that bottom row... 👀
+
+#nflverse https://t.co/SkIs2KPy9J"
+"Fri Oct 21 11:36:41 +0000 2022","1551486635367288832","cover2figuRes","1583422014018056193","𝗗𝗿𝗶𝘃𝗲 𝗿𝗲𝗰𝗮𝗽 from #thursdaynightfootball.
+
+This viz is still a work in progress, but thought I'd share an update following some additions.
+
+Was intrigued with the Eckel discussion online recently, so have attempted to add some of this data in the viz.
+
+#nflverse https://t.co/jde7nsYI16"
+"Tue Oct 25 12:22:03 +0000 2022","1551486635367288832","cover2figuRes","1584882983403917313","Thought I'd knock this same plot out for the #NFL 𝗿𝘂𝗻𝗻𝗶𝗻𝗴 𝗯𝗮𝗰𝗸𝘀 while I was at it.
+
+Players with a ⬆️ 𝗰𝘂𝗺𝘂𝗹𝗮𝘁𝗶𝘃𝗲 𝗘𝗣𝗔 are shown in the top rows.
+
+Chubb and Jacobs the clear standouts, and its a massive shame about Breece Hall.
+
+#nflverse #NFLTwitter https://t.co/yS0udZxw5P https://t.co/o9Q6zmGioG"
+"Mon Oct 24 22:58:33 +0000 2022","1584640626892627973","sergiofidanli","1584680774946934784","I'm sharing my passion for data analytics via daily #fantasyfootball insights derived from SQL, Python and #nflverse. See thread 👇 and check out my GitHub for the source code. https://t.co/myFoCU1hvm"
+"Tue Oct 25 20:28:38 +0000 2022","1584640626892627973","sergiofidanli","1585005437300404225","Day 2 (2/2): I expected more variance between players (especially at WR since they catch more passes), but the very top performers seem to be the best regardless of scoring system used.
+#100daysofcoding #nflverse"
+"Wed Oct 19 00:03:37 +0000 2022","179374572","stephenlacman","1582522822731390976","Updated after Week 6: Relative team efficiencies, constructed using a blend of z-score standardized EPA/P and SR%
+
+Data is from early downs, opponent adjusted, turnovers are excluded, garbage time is excluded
+
+#nflverse https://t.co/mqgBO2imz4"
+"Wed Oct 26 01:53:01 +0000 2022","179374572","stephenlacman","1585087069101047808","Updated after Week 7: Relative team efficiencies, constructed using a blend of z-score standardized EPA/P and SR%
+
+Data is from early downs, opponent adjusted, turnovers are excluded, garbage time is excluded
+
+#nflverse https://t.co/tXBtnDTFlb"
+"Fri Oct 21 00:22:15 +0000 2022","29360193","davisj2007","1583252286545235970","It's week 7 of the #NFL season, so let's check in on my model's latest forecast
+
+Following the @Steelers surprising win over @Buccaneers, my model adjusted Pittsburgh up and out of the lead position for the number 1 pick.  I guess that's good? #nflverse #RStats https://t.co/2RBgdVK3Tm"
+"Fri Oct 21 00:22:17 +0000 2022","29360193","davisj2007","1583252295516852224","From a strength perspective, @BuffaloBills are creating separation from the rest of the league, which is even more impressive when you remember that my model doesn't consider wins and losses in its strength algorithm.  The @Eagles climb back on top in the NFC #nflverse https://t.co/YWW3S8scSb"
+"Fri Oct 21 00:22:21 +0000 2022","29360193","davisj2007","1583252314743537664","That's it for our tangent - onto the weekly predictions. Biggest surprise of the week?  @49ers over the @Chiefs at home by 1.  I probably wouldn't bet on it...
+
+As always, I welcome questions and comments
+ #nflverse #RStats https://t.co/Wmu1SzH0eX"
+"Tue Oct 18 16:09:25 +0000 2022","3067061292","josephjefe","1582403488557854721","Snaps by Formations. KC offense first. Absolutely not our best outing, averaging just 0.05 EPA/play overall. The three plays with 3 TE's on the field were very ungood. Hardman and Moore are starting to split the snaps as WR3 in 11 personnel.
+
+#nflverse https://t.co/sQbPQt0ed8"
+"Tue Oct 18 16:09:26 +0000 2022","3067061292","josephjefe","1582403492215369731","Here's our defense. Honestly not terrible. Averaged 0.14 epa/play vs one of the best offenses in the league. The 4-2-5 was very good, and was our most common formation. 3-3-5 and 4-3-4 (base) were absolutely lit on fire though... 
+
+#nflverse https://t.co/KujDVLA2qf"
+"Tue Oct 18 16:09:27 +0000 2022","3067061292","josephjefe","1582403495457480704","Here's Buffalo's numbers. Their offense averaged 0.14 (compared to our 0.05) epa/play. They were very successful in 21 and 12 personnel. Their D was good in 3-3-5, and solid in 2-3-6. 
+
+#nflverse https://t.co/9PzR2DMPSR"
+"Sat Oct 22 12:28:27 +0000 2022","451578920","andreacasiragh1","1583797431333900288","Boring games and low scores ... Blame to low passing epa/play
+
+#nflverse https://t.co/48eB8Fpwc2"
+"Tue Oct 18 04:40:31 +0000 2022","821466642173542400","nguyenank_","1582230119132803072","Nice for the NFL to leave a 45 minute break for Sunday dinner, I suppose.
+
+#nflverse https://t.co/30xQqFf4O9"
+"Mon Oct 24 21:28:21 +0000 2022","821466642173542400","nguyenank_","1584658077935992833","Yesterday's NFL schedule viz!
+
+#nflverse https://t.co/cSZ7WbYC9Y"
+"Mon Oct 24 21:28:22 +0000 2022","821466642173542400","nguyenank_","1584658081983537152","Plus, the new absolute gel edition, that highlights close games via absolute score difference and also gel electrophoresis!
+
+#nflverse https://t.co/yyFtkO2wNJ"
+"Mon Oct 24 16:40:40 +0000 2022","922994172235276288","BenWieland","1584585677995245571","NFL division records excluding divisional games through seven weeks. Eagles at 6-0 somehow can't get any breathing room in the NFC East, who have won 84% of their non-divisional matchups so far. NFC East and AFC East beating up on the rest of the league #nflverse https://t.co/yzju6elgWX"
