@@ -659,3 +659,14 @@ Then check out this Shiny app!
 "Thu Oct 27 22:25:41 +0000 2022","3067061292","josephjefe","1585759666989981696","Simply input the season and team, and a table of every snap that team has played appears. You can further filter it down to a specific week, or a specific player, if you wish. 
 
 3/6 #nflverse https://t.co/fZBaBxNb9k"
+"Thu Oct 27 22:25:42 +0000 2022","3067061292","josephjefe","1585759672715292672","The table itself is dynamic, so you can add more filters there, for anything you want. You can even delete and add back columns that you don't want! 
+
+4/6 #nflverse https://t.co/UGbPwg2naI"
+"Thu Oct 27 22:25:43 +0000 2022","3067061292","josephjefe","1585759677345775616","You can download the data as an excel workbook or as a .csv if you prefer. After you've filtered it down to the columns and rows you want, use the ""visible"" options to download the filtered data. The ""all"" versions include the full data, and ignore table filters.
+
+5/6 #nflverse https://t.co/WvMEPafxbK"
+"Thu Oct 27 22:25:44 +0000 2022","3067061292","josephjefe","1585759679178645504","Play with this and see if it helps you when you're looking for those elusive 8 total run snaps Isiah Pacheco was in on for his debut as a starting NFL running back!! 
+
+This Shiny app brought to you by nfl analytics. Thank an analyst near you. 
+
+6/6 #nflverse"
