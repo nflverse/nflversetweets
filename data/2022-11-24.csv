@@ -1,0 +1,13 @@
+"created_at","user_id","screen_name","status_id","full_text"
+"Thu Nov 24 17:30:46 +0000 2022","1584640626892627973","sergiofidanli","1595832311576240130","Day 31 (1/2): For #Thanksgiving2022  I'll do a quick analysis of Thanksgiving Day games since 1999 (data courtesy of #nflverse). 
+
+Some fun facts:
+1. Detroit has lost 70% of their games
+2. The Rams (LA or STL), Browns, and Jags haven't played on Thanksgiving
+
+#100daysofcoding"
+"Thu Nov 24 17:32:11 +0000 2022","179374572","stephenlacman","1595832667626512385","Updated prior to Week 12: Relative team efficiency scores, constructed using a blend of z-score standardized EPA/P and SR%
+
+Data is from weeks 2-11. Early downs, opponent adjusted, turnovers are excluded, garbage time is excluded
+
+#nflverse https://t.co/X0yzvyIsGV"
