@@ -1511,3 +1511,57 @@ NOTE: Dunlap is officially listed as a LB. Blame KC and NFL for that.
 "Wed Nov 23 16:48:46 +0000 2022","935526760023777280","BrunoHMioto","1595459350671360000","Patrick Mahomes and Tua Tagovailoa are the best QBs in late downs this season, by a lot!!
 
 #nflverse #ggplot2 #RStats https://t.co/sNmQOqmEuR"
+"Tue Nov 22 01:05:21 +0000 2022","1055998106519658496","OliverJCochrane","1594859544768909313","The efficiency after contact was incredible. He runs through you (see vs. Miami) and he runs by you (see vs. Denver).
+
+The #Jets one of the league's finest for the future if Breece Hall bounces back well from the ACL.
+
+#nflverse https://t.co/gTvoEl40vE https://t.co/VDU29zLPsY"
+"Tue Nov 22 01:13:43 +0000 2022","1055998106519658496","OliverJCochrane","1594861650620055552","Saleh and Douglas are certainly building something historically special here.
+
+✈️ One of the best rushing attacks in franchise history before the Hall injury.
+✈️ Great passing personnel held to **2020 Gase/Darnold numbers** by the young QB.
+✈️ A top-3 defense.
+#nflverse #Jets https://t.co/vhnAU1gguQ https://t.co/KcvC932tiX"
+"Tue Nov 22 16:35:44 +0000 2022","1205557554442575878","mrcaseb","1595093684223180800","I was interested in the most likely playoff matchups in the wild card round. 50k simulations of the remainder of the current season resulted in the following matchups.
+Dolphins at Ravens would be my favorite matchup.
+#nflverse #rstats https://t.co/XU8SReuZVT"
+"Tue Nov 22 21:48:19 +0000 2022","1205557554442575878","mrcaseb","1595172347002163209","I dug out some old code on one of the first things I did with NFL play-by-play data. Special teams epa per play. 
+#nflverse 
+CC:@arjunmenon100 https://t.co/PLidJm63dG"
+"Wed Nov 23 18:00:00 +0000 2022","1205557554442575878","mrcaseb","1595477280263876608","A while ago, @LukeBraunNFL posted a chart showing Vikings point differential by game minute. I ""zoomed in"" a little and computed it by game second for all teams.
+There is so much to see in this chart, I love it.
+Data: #nflverse https://t.co/c75962qSnm"
+"Thu Nov 24 17:30:46 +0000 2022","1584640626892627973","sergiofidanli","1595832311576240130","Day 31 (1/2): For #Thanksgiving2022  I'll do a quick analysis of Thanksgiving Day games since 1999 (data courtesy of #nflverse). 
+
+Some fun facts:
+1. Detroit has lost 70% of their games
+2. The Rams (LA or STL), Browns, and Jags haven't played on Thanksgiving
+
+#100daysofcoding"
+"Sat Nov 26 04:22:53 +0000 2022","1584640626892627973","sergiofidanli","1596358808313397248","Day 32: Do the #MiamiDolphins have an unfair advantage at home? 
+
+A short analysis using #nflverse data inspired by an article from the Washington Post. https://t.co/A7WW8GdfLz 
+
+#100daysofcodingchallenge"
+"Thu Nov 24 17:32:11 +0000 2022","179374572","stephenlacman","1595832667626512385","Updated prior to Week 12: Relative team efficiency scores, constructed using a blend of z-score standardized EPA/P and SR%
+
+Data is from weeks 2-11. Early downs, opponent adjusted, turnovers are excluded, garbage time is excluded
+
+#nflverse https://t.co/X0yzvyIsGV"
+"Mon Nov 21 17:58:33 +0000 2022","3067061292","josephjefe","1594752137107480576","KC vs LAC Snaps by Formations!!! Here's KC's offense. Successful in every formation that had multiple snaps. Jet is still getting the majority of the 11 personnel RB snaps. Watson is clearly the JuJu replacement. Moore with a season high % of everything. 
+
+#nflverse #rstats https://t.co/WOhj0UxRey"
+"Mon Nov 21 17:58:33 +0000 2022","3067061292","josephjefe","1594752140114698240","Defense. Mixed bag here, as is typically the case when you face a good offense. Our defense did well in 3-3-5 and 3-2-6, not so great in 4-2-5 or 4-3-4. Karlaftis with a season low snap %.
+
+NOTE: Dunlap is officially listed as a LB. Blame KC and NFL for that. 
+
+#nflverse #rstats https://t.co/WZyca5BpFO"
+"Mon Nov 21 17:58:34 +0000 2022","3067061292","josephjefe","1594752142937444353","Here's LAC's numbers for the game. Positive EPA/play for every offensive formation. That's impressive. Overall, though, our D held them to 0.14 EPA/play, which is solid vs a good O. On defense, they got absolutely COOKED in their top two formations. 
+
+#nflverse #rstats https://t.co/pmN7UA7ite"
+"Mon Nov 21 16:01:37 +0000 2022","4222495623","KentWeyrauch","1594722712962105344","honestly this is starting to become a sweat
+
+#nflverse https://t.co/hWRNpZQQR1"
+"Wed Nov 23 16:48:46 +0000 2022","935526760023777280","BrunoHMioto","1595459350671360000","Patrick Mahomes and Tua Tagovailoa are the best QBs in late downs this season, by a lot!!
+
+#nflverse #ggplot2 #RStats https://t.co/sNmQOqmEuR"
