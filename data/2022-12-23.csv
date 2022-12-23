@@ -5025,3 +5025,6 @@ NYG 32nd ranked explosive run defense got worse in week 15
 "Thu Dec 22 20:16:06 +0000 2022","3067061292","josephjefe","1606020778008330240","Houstons charts. They were effective in 11p, but with only 3 WR's dressed, didn't stick with it. EPA/play does include penalties, btw. On defense, their five snaps in 3-3-5 were really good. Everything else was bad though. 
 
 #nflverse #rstats https://t.co/19GnjiKYez"
+"Fri Dec 23 21:46:25 +0000 2022","3067061292","josephjefe","1606405892773224455","Patrick Mahomes rolling epa/dropback. It averages the EPA from the previous 300 dropbacks and plots it. This shows the movement over time. I also plotted his averages by season (the dots), and overall average (red line). Same thing for NFL averages (diamonds). 
+
+#nflverse #rstats https://t.co/Afsyog4IXS"
