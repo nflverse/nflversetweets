@@ -647,3 +647,84 @@ NYG 32nd ranked explosive run defense got worse in week 15
 "Thu Dec 22 20:16:06 +0000 2022","3067061292","josephjefe","1606020778008330240","Houstons charts. They were effective in 11p, but with only 3 WR's dressed, didn't stick with it. EPA/play does include penalties, btw. On defense, their five snaps in 3-3-5 were really good. Everything else was bad though. 
 
 #nflverse #rstats https://t.co/19GnjiKYez"
+"Thu Dec 15 02:56:00 +0000 2022","1103787522084257793","Doug_Analytics","1603222311829917696","Trying something new here…
+
+ANIMATED Explosive Play Rate
+
+Excuse the poor quality and teams disappearing at their bye week, it’s something I’m trying to fix but wanted to get this out in the meantime
+
+Giants always at the bottom 🥲
+
+#nflverse https://t.co/HTRG2yLNc9"
+"Fri Dec 16 15:38:21 +0000 2022","1103787522084257793","Doug_Analytics","1603776550981312513","ANIMATED Explosive Play Rate
+
+Explosive Pass: 20+ yard completion
+Explosive Run: 10+ yard carry (incl QB runs)
+
+Current Rankings:
+Explosive Pass Rate
+1. KC (11.2%)
+2. PHI
+3. NE
+
+Explosive Run Rate
+1. BAL (17.3%)
+2. PHI
+3. CLE
+
+NYG 32nd Explosive Pass Rate since week 4
+
+#nflverse https://t.co/9R0qK5xIRB"
+"Sat Dec 17 01:28:53 +0000 2022","1103787522084257793","Doug_Analytics","1603925165158563840","Defensive Explosive Play Rate Allowed
+
+Lower left quadrant is best
+
+Current Rankings:
+Explosive Pass Rate Allowed
+1. DAL (5.5%)
+2. PHI
+3. NO
+
+Explosive Run Rate Allowed
+1. SF (6.8%)
+2. LAR
+3. BAL
+
+NYG allowed 11 explosive rushes (t-most all szn) by PHI last week
+
+#nflverse https://t.co/ClNyCj8UE4"
+"Wed Dec 14 14:52:08 +0000 2022","1156661681679998977","ajaypatell8","1603040146710228993","total qb epa when it matters (40-60 wp%) 
+
+look at geno man #nflverse https://t.co/c7dcWZyodH"
+"Tue Dec 20 18:10:12 +0000 2022","1205557554442575878","mrcaseb","1605264317015793673","Some fans have already started rooting for a higher draft pick. The #1 pick is quite likely already decided. But what about the rest of the top 5 picks? Here are all teams whose top 5 probability is at least 1%.
+#nflverse #rstats https://t.co/MDB1gnYtbp"
+"Wed Dec 14 23:36:01 +0000 2022","1326826079307378690","sportsdataverse","1603171986913447936","This incredible fellow, @mrcaseb, is a constant positive influence in the open-source sports analytics community with contributions like @nflfastR and the #nflverse. His packages and data pipeline design are the blueprint for many  @sportsdataverse packages. More on his story👇 https://t.co/gvoBCdJpVn"
+"Wed Dec 14 03:23:14 +0000 2022","1350917246101696515","jkazan_fb","1602866776995405826","Getting back into some @nflfastR analysis. I thought the EPA/Play variability chart from 2021 was cool so I decided to look at it for the season so far. It's really impressive how consistently mediocre the Falcons offense has been this season.
+
+#nflverse https://t.co/HKyom8natj"
+"Mon Dec 19 23:23:24 +0000 2022","1584640626892627973","sergiofidanli","1604980750947844096","Day 56: Today I looked into play-by-play data available through #nflverse to come up with the top players by Red Zone volume and their TD conversion pct. Basically, how often do they convert Red Zone chances into TDs?
+
+#100DaysOfCode #SQL"
+"Tue Dec 20 22:16:39 +0000 2022","1584640626892627973","sergiofidanli","1605326338398756866","Day 57: Today I'm sharing the top 20 players by Red Zone volume and their TD efficiency. Data from #nflverse and created using #SQL. #100DaysOfCode 
+
+First up, standings through Week 15, ordered by number of Red Zone plays (descending): https://t.co/qsbEIr7DXu"
+"Wed Dec 21 03:55:33 +0000 2022","179374572","stephenlacman","1605411625384771584","Updated after Week 15: Relative team efficiency scores, constructed using a blend of z-score standardized EPA/P and SR%
+
+Data is from weeks 6-15, no decay. Early downs, opponent adjusted, turnovers are excluded, garbage time is excluded.
+
+#nflverse https://t.co/O91jhyyRoZ"
+"Tue Dec 13 19:38:31 +0000 2022","3067061292","josephjefe","1602749827032354817","How good is your team at beating Vegas straight up?  
+
+The Chiefs win 63% of their games when Vegas pregame odds are set between a 41-60% chance of winning (expectation would be around the middle of that range, so ~50%). 
+
+NOTE: Pregame odds only! Not in-game.
+
+#nflverse #rstats https://t.co/njvXuhpDM7"
+"Tue Dec 13 21:37:59 +0000 2022","3067061292","josephjefe","1602779892898111488","Simple enough. Wanted to do this anyway, for Bills and Cincinnati. Here's Actual Wins vs Vegas Odds for 2020-2022.
+
+All of these graphics include playoffs, btw. 
+
+#nflverse #rstats https://t.co/rRl1AECRB9 https://t.co/7cQHTIvz1F"
+"Wed Dec 14 19:40:09 +0000 2022","3067061292","josephjefe","1603112625759432707","Alright, it's Formations Day! Here's the Chiefs offensive formations in their win over Denver. Not the best day by EPA/play for KC. 11 and 12 personnel were solid. Pop gets more run in 12 personnel than 11. Seeing Moore get snaps outside of 3 WR sets is nice. 
+
+#nflverse #rstats https://t.co/lGQkzaSjBW"
