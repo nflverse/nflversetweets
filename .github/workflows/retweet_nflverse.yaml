@@ -4,8 +4,8 @@ on:
 #      - main
 #      - master
   workflow_dispatch:
-  schedule:
-    - cron: '*/5 * * * *'
+ # schedule:
+ #   - cron: '*/5 * * * *'
 
 name: retweet_nflverse
 
