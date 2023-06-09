@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 17 * * MON' # post every Monday on 5pm UTC
+ # schedule:
+ #   - cron: '0 17 * * MON' # post every Monday on 5pm UTC
 
 name: post_nflverse_plot
 
